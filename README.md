@@ -1,4 +1,4 @@
-### Hi there I'm N. Shimazu, a Back-end developer👋
+### Hi there I'm N. Shimazu, a back-end developer👋
 
 I'm a high school student living in Chicago, but I'm Japanese.
 I started coding when I was 11, but I fell in love with Django when I was 14.
