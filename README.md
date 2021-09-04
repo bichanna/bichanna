@@ -1,11 +1,6 @@
-### Hi there I'm N. Shimazu, a back-end developer👋
+### Hi there I'm N. Shimazu👋
 
 I'm a high school student living in Chicago, but I'm Japanese.
-I started coding when I was 11, but I fell in love with Django when I was 14.
-I love Python and Django, and I use them most of the time.
-I know a little about HTML, CSS, and JavaScript, but I use Bootstrap a lot, so I don't use HTML or CSS very much.
-Most of my repositories are private because they relate to my little business with restaurants in the neighborhood. So you can't find the best of mine unfortunately
-
 
 **What I'm learning**
  - Swift and Swift UI.
