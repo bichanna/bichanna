@@ -14,3 +14,4 @@ I'm a high school student living in Chicago, but I'm Japanese.
  - A little system for my dad's company
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
