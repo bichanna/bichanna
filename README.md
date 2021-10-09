@@ -8,7 +8,7 @@ I'm a high school student living in Chicago, but I'm Japanese.
  - Java
  - Kotlin
  - C++
- - JavaScript
+ - Node.JS
 
 **What I've been working on**
  - A little business with restaurants in the neighborhood
