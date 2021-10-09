@@ -3,6 +3,7 @@
 I'm a high school student living in Chicago, but I'm Japanese.
 
 **What I'm learning**
+ - Python and Django
  - Swift and Swift UI.
  - Java
  - Kotlin
