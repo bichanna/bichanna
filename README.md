@@ -6,12 +6,11 @@ I'm a high school student living in Chicago, but I'm Japanese.
  - Python and Django
  - Swift and Swift UI.
  - Java
- - Kotlin
- - C++
 
 **What I'm planning to learn**
  - C++
- - Lisp
+ - Julia
+ - Go
 
 **What I've been working on**
  - A little business with restaurants in the neighborhood
