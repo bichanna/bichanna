@@ -9,7 +9,7 @@ I'm a high school student living in Chicago, but I'm Japanese.
  - Kotlin
  - C++
 
-**What I'm planning to learn
+**What I'm planning to learn**
  - C++
  - Lisp
 
