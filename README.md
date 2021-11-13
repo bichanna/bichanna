@@ -18,3 +18,4 @@ I'm a high school student living in Chicago, but I'm Japanese.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+I removed HTML and CSS from the top language card because I don't love writing them. They accumulated just because I was obliged to write them while writing web pages, and it does not mean I like writing HTML and CSS.
