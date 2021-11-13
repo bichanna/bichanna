@@ -8,7 +8,10 @@ I'm a high school student living in Chicago, but I'm Japanese.
  - Java
  - Kotlin
  - C++
- - Node.JS
+
+**What I'm planning to learn
+ - C++
+ - Lisp
 
 **What I've been working on**
  - A little business with restaurants in the neighborhood
