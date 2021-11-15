@@ -11,6 +11,7 @@ I'm a high school student living in Chicago, but I'm Japanese.
  - C
  - C++
  - Go
+ - Ruby
 
 **What I've been working on**
  - A little business with restaurants in the neighborhood
