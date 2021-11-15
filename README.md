@@ -7,9 +7,10 @@ I'm a high school student living in Chicago, but I'm Japanese.
  - Swift and Swift UI.
  - Java
 
-**What I'm planning to learn**
+**What I'm planning to learn** (Maybe in this order)
  - C
  - C++
+ - Scala
  - Go
  - Ruby
 
