@@ -8,8 +8,8 @@ I'm a high school student living in Chicago, but I'm Japanese.
  - Java
 
 **What I'm planning to learn**
+ - C
  - C++
- - Julia
  - Go
 
 **What I've been working on**
