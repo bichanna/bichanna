@@ -4,14 +4,12 @@ I'm a high school student living in Chicago, but I'm Japanese.
 
 **What I'm learning**
  - Python and Django
- - Swift and Swift UI.
- - Java
+ - Swift
+ - Java and Kotlin
 
 **What I'm planning to learn** (Maybe in this order)
- - C++
- - Scala
  - Go
- - Ruby
+ - Scala
 
 **What I've been working on**
  - A little business with restaurants in the neighborhood
