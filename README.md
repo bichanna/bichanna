@@ -16,6 +16,5 @@ I'm a high school student living in Chicago, but I'm Japanese.
  - A little system for my dad's company
  - Package404📦
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-* HTML and CSS are removed from the language card.
