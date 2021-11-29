@@ -9,7 +9,7 @@ I'm a high school student living in Chicago, but I'm Japanese.
 
 **What I'm planning to learn** (Maybe in this order)
  - Go
- - Scala
+ - Haskell
 
 **What I've been working on**
  - A little business with restaurants in the neighborhood
