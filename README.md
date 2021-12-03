@@ -5,7 +5,8 @@ I'm a high school student living in Chicago, but I'm Japanese.
 **What I'm learning**
  - Python and Django
  - Swift
- - Java and Kotlin
+ - Java
+ - Kotlin
 
 **What I'm planning to learn** (Maybe in this order)
  - Go
