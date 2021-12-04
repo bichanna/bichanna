@@ -16,7 +16,7 @@ Here's some confirmation of being Japanese: ベロベロバー！
  - C++
  - Haskell
 
-**What I've been working on**
+**What I'm working on**
  - A little business with restaurants in the neighborhood
  - A little system for my dad's company
  - Package404📦
