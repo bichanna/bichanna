@@ -2,6 +2,8 @@
 
 I'm a high school student living in Chicago, but I'm Japanese.
 
+Here's some confirmation of being Japanese: ベロベロバー！
+
 **What I'm learning**
  - Python and Django
  - Swift
