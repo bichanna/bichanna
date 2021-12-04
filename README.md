@@ -1,4 +1,4 @@
-### Hi there I'm N. Shimazu👋
+### Hi there I'm Nobuharu Shimazu👋
 
 I'm a high school student living in Chicago, but I'm Japanese.
 
