@@ -25,3 +25,6 @@ Here's some confirmation of being Japanese: ベロベロバー！
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+![](https://komarev.com/ghpvc/?username=bichanna)
