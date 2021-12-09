@@ -9,11 +9,11 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中２です
  - Swift
  - Java
  - Kotlin
+ - C++
 
 **What I'm planning to learn** (Maybe in this order)
  - Go
  - Scala
- - C++
  - Haskell
 
 **What I'm working on**
