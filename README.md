@@ -5,7 +5,7 @@ I'm a high school student living in Chicago, but I'm Japanese.
 Here's some confirmation of being Japanese: 歌丸師匠が好きな中２です！
 
 **What I'm learning**
- - Python and Django
+ - Python
  - Swift
  - Java
  - Kotlin
