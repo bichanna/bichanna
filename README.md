@@ -12,6 +12,7 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中２です
  - C++
 
 **What I'm planning to learn** (Maybe in this order)
+ - Solidity
  - Go
  - Scala
  - Haskell
