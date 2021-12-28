@@ -18,8 +18,8 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中２です
  - Haskell
 
 **What I'm working on**
- - A little business with restaurants in the neighborhood
- - A little system for my dad's company
+ - A small business with restaurants in the neighborhood
+ - A small system for my dad's company
  - Package404📦
 
 
