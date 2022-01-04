@@ -9,7 +9,6 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中３です
  - Swift
  - Java
  - Kotlin
- - C++
  - Julia
 
 **What I'm planning to learn** (Maybe in this order)
