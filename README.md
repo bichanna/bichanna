@@ -20,7 +20,7 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中３です
 **What I'm working on**
  - A small system for my dad's company
  - Package404📦
- - Foray programming language
+ - [Foray programming language](https://github.com/bichanna/Foray#readme)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna)
