@@ -24,7 +24,6 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中３です
  - [Gen programming language](https://github.com/bichanna/Gen#readme)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
