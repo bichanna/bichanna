@@ -1,6 +1,6 @@
 ### Hi there I'm Nobuharu Shimazu👋
 
-I'm a high school student living in Chicago, but I'm Japanese.
+I'm a Japanese high school student living in Chicago.
 
 Here's some confirmation of being Japanese: 歌丸師匠が好きな中３です！
 
