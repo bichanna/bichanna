@@ -9,12 +9,12 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中３です
  - Android App Development
  - iOS App Development
  - Julia
+ - Rust
 
 **What I'm working on**
  - [Gen programming language](https://github.com/bichanna/Gen#readme)
 
 **What I'm planning to learn**
- - Rust
  - C++
  - Crystal
 
