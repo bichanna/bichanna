@@ -12,7 +12,7 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中３です
  - Rust
 
 **What I'm working on**
- - [Gen programming language](https://github.com/bichanna/Gen#readme)
+ - [Gen programming language](https://github.com/Gen-lang/Gen)
 
 **What I'm planning to learn** (probably in this order)
  - Crystal
