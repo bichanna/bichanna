@@ -7,11 +7,11 @@ I'm a Japanese high school student living in Chicago.
 Here's some confirmation of being Japanese: 歌丸師匠が好きな中３です！
 
 **What I'm learning**
- - Django
- - Android App Development
- - iOS App Development
+ - Django (Python)
+ - Android App Development (Swift)
+ - iOS App Development (Kotlin & Java)
  - Julia
- - Rust
+ - C (This language is so hard...)
 
 **What I'm working on**
  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gen-lang&repo=Gen)](https://github.com/Gen-lang/Gen)
@@ -19,7 +19,6 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中３です
 **What I'm planning to learn** (probably in this order)
  - Crystal
  - C++
- - C
 
 | Stats | Language Usage |
 | ----------- | ----------- |
