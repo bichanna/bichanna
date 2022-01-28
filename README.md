@@ -15,7 +15,7 @@ Here's some confirmation of being Japanese: 歌丸師匠が好きな中３です
 
 **What I'm working on**
  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gen-lang&repo=Gen)](https://github.com/Gen-lang/Gen)
- - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gen-lang&repo=Gen)](https://github.com/bichanna/Somelang)
+ - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bichanna&repo=Somelang)](https://github.com/bichanna/Somelang)
 
 **What I'm planning to learn** (probably in this order)
  - Crystal
