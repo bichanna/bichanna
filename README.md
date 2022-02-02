@@ -10,6 +10,7 @@ I'm a Japanese high school student living in Chicago.
  - iOS App Development (Kotlin & Java)
  - Julia
  - C (This language is so hard...)
+ - Rust (This is hard as well)
 
 **What I'm working on**
  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gen-lang&repo=Gen)](https://github.com/Gen-lang/Gen)
