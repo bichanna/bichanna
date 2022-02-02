@@ -5,7 +5,7 @@
 I'm a Japanese high school student living in Chicago.
 
 **What I'm learning**
- - Django (Python)
+ - Django, AI (Python)
  - Android App Development (Swift)
  - iOS App Development (Kotlin & Java)
  - Julia
@@ -16,7 +16,6 @@ I'm a Japanese high school student living in Chicago.
  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gen-lang&repo=Gen)](https://github.com/Gen-lang/Gen)
 
 **What I'm planning to learn** (probably in this order)
- - D
  - Crystal
  - C++
 
