@@ -13,7 +13,7 @@ I'm a Japanese high school student living in Chicago.
  - Rust (This is hard as well)
 
 **What I'm working on**
- - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gen-lang&repo=Gen)](https://github.com/Gen-lang/Gen)
+ - :( I'm studying for AP and CLEP exams
 
 **What I'm planning to learn** (probably in this order)
  - Crystal
