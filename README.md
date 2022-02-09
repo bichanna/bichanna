@@ -13,7 +13,7 @@ I'm a Japanese high school student living in Chicago.
  - Rust (This is hard as well)
 
 **What I'm working on**
- - :( I'm studying for AP and CLEP exams
+ - Not really. I'm busy studying.
 
 **What I'm planning to learn** (probably in this order)
  - Crystal
