@@ -9,8 +9,7 @@ I'm a Japanese high school student living in Chicago.
  - Android App Development (Swift)
  - iOS App Development (Kotlin & Java)
  - Julia
- - C (This language is so hard...)
- - Rust (This is hard as well)
+ - Nim
 
 **What I'm working on**
  - Not really. I'm busy studying.
