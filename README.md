@@ -1,6 +1,4 @@
-### Hi there, I'm Nobuharu Shimazu (a.k.a bichanna)👋
-
-[![typograssy](https://typograssy.deno.dev/api?text=bichanna)](https://github.com/kawarimidoll/typograssy)
+### Hi there, I'm Nobuharu Shimazu 👋
 
 I'm a Japanese high school student living in Chicago.
 
