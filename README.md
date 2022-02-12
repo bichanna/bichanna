@@ -15,6 +15,7 @@ I'm a Japanese high school student living in Chicago.
 **What I'm planning to learn** (probably in this order)
  - Crystal
  - C++
+ - C
 
 | Stats | Language Usage |
 | ----------- | ----------- |
