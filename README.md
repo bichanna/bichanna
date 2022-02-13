@@ -17,6 +17,7 @@ I'm a Japanese high school student living in Chicago.
  - C++
  - C
 
+
 | Stats | Language Usage |
 | ----------- | ----------- |
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna&count_private=true)](https://github.com/anuraghazra/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
