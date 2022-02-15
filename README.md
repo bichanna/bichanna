@@ -1,6 +1,6 @@
 ### Hi there, I'm Nobuharu Shimazu 👋
 
-I'm a Japanese high school student living in Chicago.
+I'm a Japanese high school student living in Chicago. I mostly do backend stuff.
 
 **What I'm learning**
  - Django, AI (Python)
