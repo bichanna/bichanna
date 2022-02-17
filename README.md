@@ -1,4 +1,4 @@
-### Hi there, I'm Nobuharu Shimazu 👋
+# Hi there, I'm Nobuharu Shimazu 👋
 
 I'm a Japanese high school student living in Chicago. I mostly do backend stuff.
 
