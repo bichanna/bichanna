@@ -1,7 +1,7 @@
 # Hi there, I'm Nobuharu Shimazu 👋
 
-I'm a Japanese high school student living in Chicago. I mostly do backend stuff.
-Most of my repos are private.
+I'm a Japanese high school student living in Chicago. I mostly do backend stuff (most of my repos are private, though).<br>
+I'm both a Pythonista and a Nim lover.
 
 **What I'm learning**
  - Django, AI (Python)
