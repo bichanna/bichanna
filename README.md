@@ -11,7 +11,7 @@ I'm a Pythonista and Nim lover.
  - Nim
 
 **What I'm working on**
- - Not really. I'm busy studying.
+ - The SLAP programming language
 
 **What I'm planning to learn** (probably in this order)
  - Crystal
