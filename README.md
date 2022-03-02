@@ -18,7 +18,7 @@ I'm currently into programming languages.
  - Crystal
  - C++
  - C
-
+ - Assembly
 
 | Stats | Language Usage |
 | ----------- | ----------- |
