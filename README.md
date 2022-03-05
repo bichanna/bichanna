@@ -2,7 +2,7 @@
 
 I'm a Japanese high school student living in Chicago. I mostly do web backend stuff (most of my repos are private, though).<br>
 I'm a Pythonista and Nim lover.<br>
-I'm currently into programming languages.
+I just started learning how to create programming languages.
 
 **What I'm learning**
  - Django, AI (Python)
