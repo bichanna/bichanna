@@ -8,11 +8,10 @@ I just started learning how to create programming languages.
  - Django, AI (Python)
  - Android App Development (Swift)
  - iOS App Development (Kotlin & Java)
- - Julia
  - Nim
 
 **What I'm working on**
- - The SLAP programming language
+ - [The SLAP programming language](https://github.com/bichanna/slap#the-slap-programming-language)
 
 **What I'm planning to learn** (probably in this order)
  - Crystal
