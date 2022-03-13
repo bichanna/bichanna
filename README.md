@@ -14,7 +14,7 @@ I just started learning how to create programming languages.
  - [The SLAP programming language](https://github.com/bichanna/slap#the-slap-programming-language)
 
 **What I'm planning to learn** (probably in this order)
- - Crystal
+ - Go
  - C++
  - C
  - Assembly
