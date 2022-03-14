@@ -5,9 +5,10 @@ I'm a Pythonista and Nim lover.<br>
 I just started learning how to create programming languages.
 
 **What I'm learning**
- - Django, AI (Python)
- - Android App Development (Swift)
- - iOS App Development (Kotlin & Java)
+ - Django Web Framework (lang: Python)
+ - Android App Development (lang: Swift)
+ - iOS App Development (langs: Kotlin & Java)
+ - Design Patterns
  - Nim
 
 **What I'm working on**
