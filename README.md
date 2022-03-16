@@ -1,7 +1,7 @@
 # Hi there, I'm Nobuharu Shimazu 👋
 
-I'm a Japanese high school student living in Chicago. I mostly do web backend stuff (most of my repos are private, though).<br>
-I aim to be proficient in three languages: Python, Nim, and Dart.
+I'm a Japanese high school student living in Chicago. <br>
+I aim to be proficient in these three languages: Python for web backend, Nim for low-level-ish programming, and Dart for cross-platform apps.
 
 **What I'm learning**
  - Django Web Framework (Python)
