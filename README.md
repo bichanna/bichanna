@@ -5,11 +5,12 @@ I'm a Pythonista and Nim lover.<br>
 I just started learning how to create programming languages.
 
 **What I'm learning**
- - Django Web Framework (lang: Python)
- - Android App Development (lang: Swift)
- - iOS App Development (langs: Kotlin & Java)
+ - Django Web Framework (Python)
+ - Android App Development (Swift)
+ - iOS App Development (Kotlin & Java)
+ - Flutter (Dart)
  - Design Patterns
- - Nim
+ - Algorithms
 
 **What I'm working on**
  - [The SLAP programming language](https://github.com/bichanna/slap#the-slap-programming-language)
