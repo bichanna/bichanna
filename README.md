@@ -1,7 +1,7 @@
 # Hi there, I'm Nobuharu Shimazu 👋
 
 I'm a Japanese high school student living in Chicago. <br>
-I aim to be proficient in four languages: Python (Django) for web backend, Nim for low-level-ish programming, FORTRAN for scientific/engineering numerical computing, and Dart (Flutter) for cross-platform applications.
+I aim to become proficient in three languages: Python (Django) for web backend, Nim for low-level-ish programming, and Dart (Flutter) for cross-platform applications.
 
 **What I'm learning**
  - Django Web Framework (Python)
