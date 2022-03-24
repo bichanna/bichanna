@@ -8,7 +8,7 @@ I aim to become proficient in three languages: Python (Django) for web backend, 
  - Android App Development (Swift)
  - iOS App Development (Kotlin & Java)
  - Flutter (Dart)
- - Design Patterns
+ - Design Patterns (I love this [song](https://www.youtube.com/watch?v=YYvOGPMLVDo))
  - Algorithms
 
 **What I'm working on**
