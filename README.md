@@ -5,20 +5,9 @@ I aim to become proficient in three languages: Python (Django) for web backend, 
 
 **What I'm learning**
  - Django Web Framework (Python)
- - Android App Development (Swift)
- - iOS App Development (Kotlin & Java)
  - Flutter (Dart)
  - Design Patterns (I love this [song](https://www.youtube.com/watch?v=YYvOGPMLVDo))
  - Algorithms
-
-**What I'm working on**
- - [The SLAP programming language](https://github.com/bichanna/slap#the-slap-programming-language)
-
-**What I'm planning to learn** (probably in this order)
- - FORTRAN
- - C++
- - C
- - Assembly
 
 | Stats | Language Usage |
 | ----------- | ----------- |
