@@ -5,6 +5,8 @@ I'm a Japanese high school student living in Chicago. <br>
 **What I'm learning**
  - Django Web Framework (Python)
  - Flutter (Dart)
+ - A little bit of C#
+ - Nim
  - Design Patterns (I love this [song](https://www.youtube.com/watch?v=YYvOGPMLVDo))
  - Algorithms
 
