@@ -10,6 +10,7 @@ I'm a Japanese high school student living in Chicago.
  - Flutter (Dart)
  - A little bit of C#
  - Nim
+ - C++
  - Design Patterns (I love this [song](https://www.youtube.com/watch?v=YYvOGPMLVDo))
  - Algorithms
  - A little bit of ethical hacking
