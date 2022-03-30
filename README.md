@@ -15,7 +15,4 @@ I'm a Japanese high school student living in Chicago.
  - Algorithms
  - A little bit of ethical hacking
 
-| Stats | Language Usage |
-| ----------- | ----------- |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=6&hide=html,css,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
