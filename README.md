@@ -12,7 +12,7 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
  - Go
  - Nim
  - Rust
- - Little big of Compiler Design
+ - Little bit of Compiler Design
 
 **Languages I Like**
  - Python 🐍
