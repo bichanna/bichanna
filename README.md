@@ -14,6 +14,12 @@ I'm a 15-year-old Japanese high school student living in Evanston, IL.
  - Rust
  - Little big of Compiler Design
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+**Languages I Like**
+ - Python 🐍
+ - Rust 🦀
+ - Go ʕ◔ϖ◔ʔ
+ - Nim 👑
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
