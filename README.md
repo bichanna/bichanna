@@ -6,11 +6,12 @@ I'm a 15-year-old Japanese high school student living in Evanston, IL.
 <br>
 
 **What I'm learning**
- - Django (Python)
- - Spring (Java)
+ - Django Web Framwork (Python)
+ - Spring Boot (Java)
  - Flutter (Dart)
+ - Go
  - Nim
- - Design Patterns (I love this [song](https://www.youtube.com/watch?v=YYvOGPMLVDo))
+ - Rust
  - Little big of Compiler Design
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
