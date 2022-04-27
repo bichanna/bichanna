@@ -7,7 +7,6 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
 
 **What I'm learning**
  - Django (Python)
- - Spring (Java)
  - Flutter (Dart)
  - Go
  - Nim
