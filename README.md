@@ -13,9 +13,9 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
  - Rust
 
 **Languages I Like**
- - Python 🐍
+ - Python 🐍  <- I have a sticker on my Mac.
  - Rust 🦀
- - Go ʕ◔ϖ◔ʔ
+ - Go ʕ◔ϖ◔ʔ   <- I have a sticker on my Mac.
  - Nim 👑
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bichanna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
