@@ -9,6 +9,7 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
  - Django Web Framwork (Python)
  - Flutter Framework (Dart)
  - Go's Built-in Web Server (Go, obviously)
+ - Smart Contracts (Solidity)
  - Nim
  - Rust
 
