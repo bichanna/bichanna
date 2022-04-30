@@ -5,6 +5,8 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
 <!-- <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="45">  -->
 <br>
 
+Send me a tip if you are using Brave :)
+
 **What I'm learning**
  - Django Web Framwork (Python)
  - Flutter Framework (Dart)
