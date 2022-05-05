@@ -13,6 +13,8 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
  - Smart Contracts (Solidity)
  - Nim
 
+(Wanna learn C soon)
+
 **Languages I Like**
  - Python 🐍
  - Go ʕ◔ϖ◔ʔ
