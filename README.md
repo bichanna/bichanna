@@ -9,11 +9,10 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
 **What I'm learning**
  - Django Web Framwork (Python)
  - Flutter Framework (Dart)
- - Gin Framework (Go)
  - Smart Contracts (Solidity)
  - Nim
-
-(Wanna learn C soon)
+ - Go
+ - C
 
 **Languages I Like**
  - Python 🐍
