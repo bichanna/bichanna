@@ -7,12 +7,12 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
 
 
 **What I'm learning**
- - Django Web Framwork (Python)
- - Flutter Framework (Dart)
+ - Django & Flask (Python)
+ - Flutter (Dart)
  - Smart Contracts (Solidity)
  - Nim
  - Go
- - C
+ - Docker
 
 **Languages I Like**
  - Python 🐍
