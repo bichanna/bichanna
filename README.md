@@ -24,3 +24,5 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+
+
