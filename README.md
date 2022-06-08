@@ -7,12 +7,11 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL.
 
 
 **What I'm learning**
- - Django & Flask & FastAPI (Python)
+ - Django & SQLAlchemy & FastAPI (Python)
  - Flutter (Dart)
  - Docker & Kubernetes
  - Nim
  - Go
- - D
 
 **Languages I Like**
  - Python 🐍
