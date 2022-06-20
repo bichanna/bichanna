@@ -13,11 +13,6 @@ I'm a 16-year-old Japanese high school student living in Evanston, IL (moving to
  - Nim
  - Go
 
-**Languages I Like**
- - Python 🐍
- - Go ʕ◔ϖ◔ʔ
- - Nim 👑
-
 | Langs      | Stats |
 | ----------- | ----------- |
 | ![](https://raw.githubusercontent.com/bichanna/github-stats/master/generated/languages.svg#gh-dark-mode-only)| ![](https://raw.githubusercontent.com/bichanna/github-stats/master/generated/overview.svg#gh-dark-mode-only) |
