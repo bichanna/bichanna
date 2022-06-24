@@ -7,7 +7,8 @@ I'm a 16-year-old Japanese student living in Evanston, IL (moving to Toronto in 
 
 
 **What I'm learning**
- - Django & SQLAlchemy & FastAPI (Python)
+ - Django & FastAPI (Python)
+ - Starting to use poetry instead of pip
  - Flutter (Dart)
  - Docker & Kubernetes
  - Nim
