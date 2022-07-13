@@ -10,8 +10,9 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
  - Django & FastAPI (Python)
  - Starting to use poetry instead of pip
  - Flutter (Dart)
- - Fyne (Go)
  - Docker & Kubernetes
+ - Go programming language
+ - Neovim
 
 ---
 
