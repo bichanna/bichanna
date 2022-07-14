@@ -6,7 +6,7 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
 <br>
 
 
-**What I'm learning**
+**What I'm learning (& using)**
  - Django & FastAPI (Python)
  - Starting to use poetry instead of pip
  - Flutter (Dart)
