@@ -8,11 +8,11 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
 
 **What I'm learning (& using)**
  - Django & FastAPI (Python)
- - Starting to use poetry instead of pip
  - Flutter (Dart)
  - Docker & Kubernetes
  - Go programming language
- - Neovim
+ - Phoenix (Elixir)
+ - NeoVim
 
 ---
 
