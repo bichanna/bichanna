@@ -11,8 +11,11 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
  - Flutter (Dart)
  - Docker & Kubernetes
  - Standard libraries for web development (Go)
- - Phoenix (Elixir)
  - NeoVim
+ 
+**What I want to learn in the near future**
+ - Phoenix (Elixir)
+ - OCaml programming language
 
 ---
 
