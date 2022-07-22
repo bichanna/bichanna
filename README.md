@@ -16,6 +16,7 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
 **What I want to learn in the near future**
  - Phoenix (Elixir)
  - OCaml programming language
+ - Rust programming language
 
 ---
 
