@@ -10,12 +10,13 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
  - Django & FastAPI (Python)
  - Flutter (Dart)
  - Docker & Kubernetes
- - Standard libraries for web development (Go)
- - Vue.js
+ - Standard libraries for web development (Go) 
  - NeoVim
  
 **What I want to learn in the near future**
  - Phoenix (Elixir)
+ - Haxe
+ - Vue.js
  - Rust programming language
 
 ---
