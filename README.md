@@ -19,7 +19,7 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
 **What I want to learn / am learning just for fun**
  - Nim programming language
  - Hy programming language
- - Zip programming language
+ - Zig programming language
  - Rust programming language
  - Unity game engine
  - Common Lisp
