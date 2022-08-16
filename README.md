@@ -11,18 +11,16 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
  - Flutter (Dart)
  - Docker & Kubernetes
  - Standard libraries for web development (Go) 
+ - Vue.js
  - NeoVim
  
 **What I want to learn in the near future**
- - Vue.js
+ - Rust programming language
  
 **What I want to learn / am learning just for fun**
  - Nim programming language
  - Hy programming language
- - Zig programming language
- - Rust programming language
  - Unity game engine
- - Common Lisp
 
 ---
 
