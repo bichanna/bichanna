@@ -25,6 +25,7 @@ I'm a 16-year-old Japanese student living in Toronto, ON, who
  - Nim programming language
  - Hy programming language
  - Unity game engine
+ - Julia programming language
 
 ---
 
