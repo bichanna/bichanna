@@ -1,7 +1,7 @@
 # Hi there, I'm Nobuharu Shimazu 👋
 
 I'm a 16-year-old Japanese student living in Toronto, ON, who
- - is a `Pythonista`, `Gopher`, and future `Rustacean`.
+ - is a `Pythonista` and `Gopher`.
  - does not like JavaScript but uses it because ..well, it's necessary.
 
 <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
@@ -9,23 +9,23 @@ I'm a 16-year-old Japanese student living in Toronto, ON, who
 <br>
 
 
-**What I'm learning (& using)**
- - Django & FastAPI (Python)
+**What I'm learning**
+ - Django & FastAPI & Flask (Python)
  - Flutter (Dart)
  - Docker & Kubernetes
- - Standard libraries for web development (Go) 
- - Vue.js
- - NeoVim
+ - Standard library for web development (Go)
+ - Vue.js (JavaScript)
  
 **What I want to learn in the near future**
- - Rust programming language
  - Terraform
+ - Fortran
  
 **What I want to learn / am learning just for fun**
- - Nim programming language
  - Hy programming language
- - Unity game engine
+ - Nim programming language
  - Julia programming language
+ - Fortran programming language
+ - Rust programming language
 
 ---
 
