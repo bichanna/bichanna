@@ -1,6 +1,8 @@
 # Hi there, I'm Nobuharu Shimazu 👋
 
-I'm a 16-year-old Japanese student living in Toronto, ON. A `Pythonista`, `Gopher`, and future `Rustacean`.
+I'm a 16-year-old Japanese student living in Toronto, ON, who
+ - is a `Pythonista`, `Gopher`, and future `Rustacean`.
+ - does not like JavaScript but uses it because ..well, it's necessary.
 
 <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
 <!-- <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="45">  -->
