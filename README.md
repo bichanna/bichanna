@@ -25,8 +25,6 @@ I'm a 16-year-old Japanese student living in Toronto, ON, who
  - Hy programming language
  - Nim programming language
  - Julia programming language
- - Fortran programming language
- - Rust programming language
 
 ---
 
