@@ -12,12 +12,12 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
  - Flutter (Dart)
  - Docker & Kubernetes
  - Standard library for web development (Go)
- - Vue.js (JavaScript)
  
 **What I want to learn in the near future**
  - Terraform
- - Machine Learning (Python & Hy & Julia & Fortran)
+ - Machine Learning (Python & Hy)
  - C++ programming language
+ - Vue.js (JavaScript & TypeScript)
  
 **What I want to learn / am learning just for fun**
  - Hy programming language
