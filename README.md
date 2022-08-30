@@ -15,7 +15,7 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
  
 **What I want to learn in the near future**
  - Terraform
- - Machine Learning (Python & Hy)
+ - Machine Learning (Python & Hy & C++ & Julia)
  - C++ programming language
  - Vue.js (JavaScript & TypeScript)
  
