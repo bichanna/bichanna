@@ -17,12 +17,12 @@ I'm a 16-year-old Japanese student living in Toronto, ON.
  - Terraform
  - Machine Learning (Python & Hy & C++ & Julia)
  - C++ programming language
+ - Rust programming language
  - Vue.js (JavaScript & TypeScript)
  
 **What I want to learn / am learning just for fun**
  - Hy programming language
  - Nim programming language
- - Julia programming language
 
 ---
 
