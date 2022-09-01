@@ -1,6 +1,6 @@
 # Hi there, I'm Nobuharu Shimazu 👋
 
-I'm a 16-year-old Japanese student living in Toronto, ON.
+I'm a teenager living with my parents, a younger sister, and a Husky in Toronto, ON.
 
 <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
 <!-- <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="45">  -->
