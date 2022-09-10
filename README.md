@@ -15,10 +15,10 @@ I'm a teenager living in Toronto, ON.
  
 **What I want to learn in the near future**
  - Terraform
- - Machine Learning (Python & Hy & C++ & Julia)
+ - Machine Learning (Python & Hy & C++)
  - C++ programming language
- - Rust programming language
  - Vue.js (JavaScript & TypeScript)
+ - Ada programming language
  
 **What I want to learn / am learning just for fun**
  - Hy programming language
