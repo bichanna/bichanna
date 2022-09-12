@@ -23,6 +23,7 @@ I'm a teenager living in Toronto, ON.
 **What I want to learn / am learning just for fun**
  - Hy programming language
  - Nim programming language
+ - Common Lisp programming language
 
 ---
 
