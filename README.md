@@ -11,12 +11,11 @@ I'm a teenager living in Toronto, ON.
  - Django & FastAPI & Flask (Python)
  - Flutter (Dart)
  - Docker & Kubernetes
- - Standard library for web development (Go)
+ - Standard packages (and third party packages) for web development (Go)
  
 **What I want to learn in the near future**
  - Terraform
- - Machine Learning (Python & Hy & C++)
- - C++ programming language
+ - Machine Learning (Python & Hy)
  - Vue.js (JavaScript & TypeScript)
  
 **What I want to learn / am learning just for fun**
