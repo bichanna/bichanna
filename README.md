@@ -18,12 +18,12 @@ I'm a teenager living in Toronto, ON.
  - Machine Learning (Python & Hy & C++)
  - C++ programming language
  - Vue.js (JavaScript & TypeScript)
- - Ada programming language
  
 **What I want to learn / am learning just for fun**
  - Hy programming language
  - Nim programming language
- - Common Lisp programming language
+ - Ada programming language
+ - Common Lisp dialect (SBCL)
 
 ---
 
