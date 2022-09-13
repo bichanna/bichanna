@@ -19,11 +19,12 @@ I'm a teenager living in Toronto, ON.
  - Vue.js (JavaScript & TypeScript)
  
 **What I want to learn / am learning just for fun**
- - Hy programming language
- - Nim programming language
- - Ada programming language
+ - Hy
+ - Nim
+ - Ada
  - Common Lisp dialect (SBCL)
  - Scheme dialect (Chicken)
+ - OCaml
 
 ---
 
