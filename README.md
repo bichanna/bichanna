@@ -25,6 +25,12 @@ I'm a teenager living in Toronto, ON.
  - Common Lisp dialect (SBCL)
  - Scheme dialect (Chicken)
  - OCaml
+ 
+ **What I don't like much**
+ - C & C++
+ - Java
+ - JavaScript
+ - HTML & CSS
 
 ---
 
