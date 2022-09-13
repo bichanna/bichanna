@@ -23,6 +23,7 @@ I'm a teenager living in Toronto, ON.
  - Nim programming language
  - Ada programming language
  - Common Lisp dialect (SBCL)
+ - Scheme dialect (Chicken)
 
 ---
 
