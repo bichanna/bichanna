@@ -22,6 +22,7 @@ I'm a teenager living in Toronto, ON. <img src="https://user-images.githubuserco
  - Common Lisp dialect (SBCL)
  - Scheme dialect (Chicken)
  - OCaml
+ - Haskell
  
  **What I don't like much**
  - C & C++
