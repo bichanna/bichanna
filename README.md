@@ -13,16 +13,13 @@ I'm a teenager living in Toronto, ON. <img src="https://user-images.githubuserco
 **What I want to learn in the near future**
  - Terraform
  - Machine Learning (Python & Hy)
- - Vue.js (JavaScript & TypeScript)
  
 **What I want to learn / am learning just for fun**
  - Hy
- - Nim
  - Ada
  - Common Lisp dialect (SBCL)
  - Scheme dialect (Chicken)
  - OCaml
- - Haskell
  
  **What I don't like much**
  - C & C++
