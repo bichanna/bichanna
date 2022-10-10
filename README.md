@@ -16,10 +16,8 @@ I'm a teenager living in Toronto, ON. <img src="https://user-images.githubuserco
  
 **What I want to learn / am learning just for fun**
  - Hy
- - Ada
- - Common Lisp dialect (SBCL)
- - Scheme dialect (Chicken)
- - OCaml
+ - Clojure
+ - Rust
  
  **What I don't like much**
  - C & C++
