@@ -18,6 +18,7 @@ I'm a teenager living in Toronto, ON. <img src="https://user-images.githubuserco
  - Hy
  - Clojure
  - Rust
+ - Ada
  
  **What I don't like much**
  - C & C++
