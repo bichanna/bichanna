@@ -9,6 +9,7 @@ I'm a teenager living in Toronto, ON. <img src="https://user-images.githubuserco
  - Flutter (Dart)
  - Docker & Kubernetes
  - Standard packages (and third party packages) for web development (Go)
+ - Vue.js (JavaScript)
  
 **What I want to learn in the near future**
  - Terraform
