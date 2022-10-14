@@ -21,7 +21,7 @@ I'm a teenager living in Toronto, ON. <img src="https://user-images.githubuserco
  - Rust
  - Ada
  
- **What I don't like much**
+ **What I don't like much (might change my mind)**
  - C & C++
  - Java
  - JavaScript
