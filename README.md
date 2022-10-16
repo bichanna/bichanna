@@ -14,15 +14,12 @@ I'm a teenager living in Toronto, ON. <img src="https://user-images.githubuserco
 **What I want to learn in the near future**
  - Terraform
  - Machine Learning (Python & Hy)
- 
-**What I want to learn / am learning just for fun**
- - Hy
  - Clojure
  - Rust
- - Ada
+ - Odin 
  
- **What I don't like much (might change my mind)**
- - C & C++
+ **What I don't like much**
+ - C++ (not C)
  - Java
  - JavaScript
  - HTML & CSS
