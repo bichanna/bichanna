@@ -16,6 +16,7 @@ I'm a teenager living in Toronto, ON. <img src="https://user-images.githubuserco
  - Machine Learning (Python & Hy)
  - Clojure
  - Rust
+ - Haskel
  
  **What I don't like much**
  - C++ (not C)
