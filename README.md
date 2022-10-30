@@ -14,7 +14,6 @@ I'm a teenager living in Toronto, ON. <img src="https://user-images.githubuserco
 **What I want to learn in the near future**
  - Terraform
  - Machine Learning (Python & Hy)
- - Clojure
  - Rust
  - Haskell
  
