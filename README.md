@@ -15,7 +15,6 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  - Terraform
  - Machine Learning (Python & Hy)
  - Rust
- - Haskell
  
  **What I don't like much**
  - C++ (not C)
