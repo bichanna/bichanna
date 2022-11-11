@@ -10,11 +10,11 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  - Docker & Kubernetes
  - Standard packages (and third party packages) for web development (Go)
  - Vue.js (JavaScript)
+ - Rust
  
 **What I want to learn in the near future**
  - Terraform
  - Machine Learning (Python & Hy)
- - Rust
  
  **What I don't like much**
  - C++ (not C)
