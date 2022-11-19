@@ -5,7 +5,7 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
 
 
 **What I'm learning**
- - Django & FastAPI & Flask (Python)
+<!--  - Django & FastAPI & Flask (Python) -->
  - Flutter (Dart)
  - Docker & Kubernetes
  - Standard packages (and third party packages) for web development (Go)
