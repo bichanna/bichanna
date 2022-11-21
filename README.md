@@ -15,6 +15,7 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
 **What I want to learn in the near future**
  - Terraform
  - Machine Learning (Python & Hy)
+ - OCaml
  
  **What I don't like much**
  - C++ (not C)
