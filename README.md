@@ -8,14 +8,14 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
 <!--  - Django & FastAPI & Flask (Python) -->
  - Flutter (Dart)
  - Docker & Kubernetes
- - Standard packages (and third party packages) for web development (Go)
- - Vue.js (JavaScript)
+ - gRPC stuff (Go)
  - Rust
+ - Haskell
  
 **What I want to learn in the near future**
  - Terraform
  - Machine Learning (Python & Hy)
- - Haskell
+ - Vue.js (JavaScript)
  
  **What I don't like much**
  - C++ (not C)
