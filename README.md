@@ -9,7 +9,6 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  - Flutter (Dart)
  - Docker & Kubernetes
  - Rust
- - Haskell
  - Vue.js (JavaScript)
  
 **What I want to learn in the near future**
@@ -17,11 +16,12 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  - Machine Learning (Python & Hy)
  - gRPC stuff (Go)
  - C
+ - Haskell
  
  **What I don't like much**
  - C++ (not C)
  - Java
- - JavaScript
+ - JavaScript (including Node.js)
  - HTML & CSS
 
 ---
