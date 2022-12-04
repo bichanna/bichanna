@@ -15,7 +15,7 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  - Terraform
  - Machine Learning (Python & Hy)
  - gRPC stuff (Go)
- - Reason
+ - OCaml
  - Gleam
  
  **What I don't like much**
