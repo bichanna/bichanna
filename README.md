@@ -9,12 +9,12 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  - Flutter (Dart)
  - Docker & Kubernetes
  - Rust
- - Vue.js (JavaScript)
  
 **What I want to learn in the near future**
  - Terraform
  - Machine Learning (Python & Hy)
  - gRPC stuff (Go)
+ - Vue.js (JavaScript)
  - OCaml
  - Gleam
  
