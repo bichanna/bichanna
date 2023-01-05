@@ -16,7 +16,7 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  - gRPC stuff (Go)
  - Vue.js (JavaScript)
  - OCaml
- - Gleam
+ - Elixir
  
  **What I don't like much**
  - C++ (not C)
