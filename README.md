@@ -21,6 +21,7 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  **What I don't like much**
  - C++ (not C)
  - Java
+ - Ruby
  - JavaScript (including Node.js)
  - HTML & CSS
 
