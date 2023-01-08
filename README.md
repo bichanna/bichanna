@@ -9,13 +9,13 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  - Flutter (Dart)
  - Docker & Kubernetes
  - Rust
+ - Phoenix (Elixir)
  
 **What I want to learn in the near future**
  - Machine Learning (Python & Hy)
  - gRPC stuff (Go)
  - Vue.js (JavaScript)
  - OCaml
- - Elixir
  
  **What I don't like much**
  - C++ (not C)
