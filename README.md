@@ -11,7 +11,6 @@ I'm a Japanese teenager who likes programming and lives in Toronto, ON. <img src
  - Rust
  
 **What I want to learn in the near future**
- - Terraform
  - Machine Learning (Python & Hy)
  - gRPC stuff (Go)
  - Vue.js (JavaScript)
