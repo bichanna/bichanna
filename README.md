@@ -5,9 +5,8 @@ I'm a Japanese teenager living in Toronto, ON. <img src="https://user-images.git
 
 I'm trying to learn
  - Qt
- - Unreal
+ - 2D Unity
  - Flutter
- - AI
 
 <div align="center">
 
