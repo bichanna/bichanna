@@ -6,7 +6,7 @@ I'm a Japanese teenager living in Toronto, ON. <img src="https://user-images.git
 I like these stuff:
  - Flutter (Dart)
  - Django (Python)
- - Akka (Scala)
+ - Akka & Spark (Scala)
 
 <div align="center">
 
