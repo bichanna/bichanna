@@ -4,10 +4,9 @@ I'm a Japanese teenager living in Toronto, ON. <img src="https://user-images.git
 <br>
 
 I like these stuff:
- - Qt (C++)
- - 2D Unity (C# and F#)
  - Flutter (Dart)
  - Django (Python)
+ - Akka (Scala)
 
 <div align="center">
 
