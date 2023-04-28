@@ -3,9 +3,9 @@
 I'm a Japanese teenager living in Toronto, ON. <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
 <br>
 
-I like these stuff:
+I'm interested in these:
  - Flutter (Dart)
- - Django (Python)
+ - Django & Flask (Python)
  - Akka & Spark (Scala)
 
 <div align="center">
