@@ -6,7 +6,7 @@ I'm a Japanese teenager living in Toronto, ON. <img src="https://user-images.git
 I'm interested in these:
  - Flutter (Dart)
  - Django & Flask (Python)
- - Akka & ZIO & Spark (Scala)
+ - Akka & Kafka & Spark (Scala)
 
 <div align="center">
 
