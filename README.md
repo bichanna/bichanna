@@ -3,10 +3,16 @@
 I'm a Japanese teenager living in Toronto, ON. <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
 <br>
 
-I'm interested in these:
+I'm interested in these technologies:
  - Flutter (Dart)
  - Django & Flask (Python)
  - Akka & Kafka & Spark (Scala)
+
+My hobbies:
+ - piano & bass
+ - tennis
+ - boxing
+ - programming, ofc!
 
 <div align="center">
 
