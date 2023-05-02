@@ -1,4 +1,4 @@
-# Hi there, I'm Nobuharu Shimazu 👋
+# Hi there, I'm Nobu 👋
 
 I'm a Japanese teenager living in Toronto, ON. <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
 <br>
