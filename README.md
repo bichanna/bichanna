@@ -5,7 +5,7 @@ I'm a Japanese teenager living in Toronto, ON. <img src="https://user-images.git
 
 I'm interested in these technologies:
  - Flutter (Dart)
- - Django & Flask (Python)
+ - Django & Flask & FastAPI (Python)
  - Akka & Kafka & Spark (Scala)
 
 My hobbies:
