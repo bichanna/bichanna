@@ -9,9 +9,9 @@ I'm interested in these technologies:
  - Akka & Kafka & Spark (Scala)
 
 My hobbies:
- - play piano
- - listen to bass solos
- - tennis
+ - playing piano
+ - listening to bass solos
+ - playing tennis
  - boxing
  - programming, ofc!
 
