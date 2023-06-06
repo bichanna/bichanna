@@ -7,6 +7,7 @@ I'm interested in these technologies:
  - Flutter (Dart)
  - Django & Flask & FastAPI (Python)
  - Akka & Kafka & Spark (Scala)
+ - Haskell
 
 My hobbies:
  - playing piano
