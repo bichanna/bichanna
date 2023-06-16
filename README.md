@@ -8,6 +8,7 @@ I'm interested in these technologies:
  - Akka & Kafka & Spark (Scala)
  - Go
  - Haskell
+ - OCaml
  - SwiftUI
 
 My hobbies:
