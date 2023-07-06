@@ -7,7 +7,7 @@ I'm interested in these technologies:
  - Django & Flask & FastAPI (Python)
  - Akka & Kafka & Spark (Scala)
  - Go
- - Zig
+ - Rust
  - Functional languages eg. OCaml, Haskell
 
 My hobbies:
