@@ -4,18 +4,15 @@ I'm a Japanese teenager living in Toronto, ON. <img src="https://user-images.git
 <br>
 
 Interests:
- - Django & Flask & FastAPI (Python)
- - Akka & Kafka & Spark (Scala)
- - Go
+ - Python
  - Rust
- - Functional programming
+ - Erlang
+ - Haskell
 
-Hobbies:
+Hobbies (other than programming):
  - playing piano
  - listening to bass solos
  - playing tennis
- - boxing
- - programming, ofc!
 
 <div align="center">
 
