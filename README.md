@@ -8,6 +8,7 @@ Interests:
  - Rust
  - Erlang
  - Haskell
+ - OCaml
 
 Hobbies (other than programming):
  - playing piano
