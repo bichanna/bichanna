@@ -5,7 +5,7 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 
 Interests:
  - Python
- - Rust
+ - Rust (Racket, SurrealDB, Tauri)
  - Erlang
  - Haskell
  - OCaml
