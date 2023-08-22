@@ -4,12 +4,10 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 <br>
 
 Interests:
- - Python
  - Rust (Racket, SurrealDB, Tauri)
- - Erlang
- - Haskell
- - OCaml
-
+ - Python (SQLAlchemy)
+ - SvelteKit
+ 
 Hobbies (other than programming):
  - playing piano
  - listening to bass solos
