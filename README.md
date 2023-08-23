@@ -5,8 +5,9 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 
 Interests:
  - Rust (Racket, SurrealDB, Tauri)
- - Python (SQLAlchemy)
+ - Python (SQLAlchemy, Django)
  - SvelteKit
+ - Flutter
  
 Hobbies (other than programming):
  - playing piano
