@@ -8,6 +8,8 @@ Interests:
  - Python (SQLAlchemy, Django)
  - SvelteKit
  - Flutter
+ - Terraform
+ - PostgreSQL
  
 Hobbies (other than programming):
  - playing piano
