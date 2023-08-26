@@ -6,6 +6,7 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 Interests:
  - Rust (Racket, SurrealDB, Tauri)
  - Python (SQLAlchemy, Django)
+ - Haskell
  - SvelteKit
  - Flutter
  - Terraform
