@@ -4,13 +4,19 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 <br>
 
 Interests:
- - Rust (Racket, SurrealDB, Tauri)
+ - Rust (Rocket, SurrealDB, Tauri)
  - Python (SQLAlchemy, Django)
  - Haskell
  - SvelteKit
  - Flutter
  - Terraform
  - PostgreSQL
+
+Learning List:
+ - Rocket.rs
+ - SvelteKit & Tailwind
+ - Flutter
+ - ... (idk yet)
  
 Hobbies (other than programming):
  - playing piano
