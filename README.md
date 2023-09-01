@@ -6,10 +6,9 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 Interests:
  - Rust (Rocket, SurrealDB, Tauri)
  - Python (SQLAlchemy, Django, FastAPI)
- - Haskell
+ - Go (Fyne)
  - SvelteKit
  - Flutter
- - Terraform
  - PostgreSQL
 
 Learning List:
