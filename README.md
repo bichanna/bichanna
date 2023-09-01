@@ -12,7 +12,7 @@ Interests:
  - PostgreSQL
 
 Learning List:
- - Rocket.rs
+ - Rocket.rs & PostgreSQL
  - Flutter
  - SvelteKit & Tailwind
  - ... (idk yet)
