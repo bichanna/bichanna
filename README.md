@@ -5,7 +5,7 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 
 Interests:
  - Rust (Rocket, SurrealDB, Tauri)
- - Python (SQLAlchemy, Django, FastAPI)
+ - Python (Django, FastAPI, Fret)
  - Go (Fyne)
  - SvelteKit
  - Flutter
