@@ -7,14 +7,14 @@ Interests:
  - Rust (Rocket, SurrealDB, Tauri)
  - Python (Django, FastAPI, Fret)
  - Go (Fyne)
- - SvelteKit
  - Flutter
+ - SvelteKit
  - PostgreSQL
 
 Learning List:
  - Rocket.rs
- - SvelteKit & Tailwind
  - Flutter
+ - SvelteKit & Tailwind
  - ... (idk yet)
  
 Hobbies (other than programming):
