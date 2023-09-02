@@ -12,9 +12,10 @@ Interests:
  - PostgreSQL
 
 Learning List:
-1. Rocket.rs & PostgreSQL
+1. Rocket.rs & SurrealDB
 2. Flutter
 3. SvelteKit & Tailwind
+4. PostgreSQL
  
 Hobbies (other than programming):
  - playing piano
