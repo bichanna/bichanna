@@ -6,10 +6,10 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 Interests:
  - Rust (Rocket, SurrealDB, Tauri)
  - Python (Django, FastAPI, Fret)
+ - Haskell
  - Machine Learning
  - Flutter
  - SvelteKit
- - PostgreSQL
 
 Learning List:
 1. Rocket.rs & SurrealDB
