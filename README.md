@@ -4,7 +4,7 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 <br>
 
 Interests:
- - Rust (Rocket, SurrealDB, Tauri, Dioxus)
+ - Rust (Rocket, SurrealDB, wgpu, Dioxus)
  - Python (Django, FastAPI, Fret)
  - Haskell
  - Machine Learning
