@@ -4,7 +4,7 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 <br>
 
 Interests:
- - Rust (Rocket, SurrealDB, Tauri)
+ - Rust (Rocket, SurrealDB, Tauri, Dioxus)
  - Python (Django, FastAPI, Fret)
  - Haskell
  - Machine Learning
@@ -15,7 +15,6 @@ Learning List:
 1. Rocket.rs & SurrealDB
 2. Flutter
 3. SvelteKit & Tailwind
-4. PostgreSQL
  
 Hobbies (other than programming):
  - playing piano
