@@ -5,7 +5,7 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 
 Interests:
  - Rust (Rocket, SurrealDB, wgpu, Dioxus)
- - Python (Django, FastAPI, Fret)
+ - Python (Django, Litestar, Fret)
  - Haskell
  - Machine Learning
  - Flutter
