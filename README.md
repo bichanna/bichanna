@@ -13,9 +13,9 @@ Interests:
 
 Learning List:
 1. Tauri
-2. Flutter
+2. SvelteKit & Tailwind
 3. Rocket.rs & SurrealDB
-4. SvelteKit & Tailwind
+4. Flutter
  
 Hobbies (other than programming):
  - playing piano
