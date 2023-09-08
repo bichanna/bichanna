@@ -12,9 +12,10 @@ Interests:
  - SvelteKit
 
 Learning List:
-1. Rocket.rs & SurrealDB
+1. Dioxus
 2. Flutter
-3. SvelteKit & Tailwind
+3. Rocket.rs & SurrealDB
+4. SvelteKit & Tailwind
  
 Hobbies (other than programming):
  - playing piano
