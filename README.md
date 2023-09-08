@@ -13,7 +13,7 @@ Interests:
 
 Learning List:
 1. Tauri
-2. SvelteKit & Tailwind
+2. SvelteKit & Tailwind & Pico.css
 3. Rocket.rs & SurrealDB
 4. Flutter
  
