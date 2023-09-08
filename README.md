@@ -4,7 +4,7 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 <br>
 
 Interests:
- - Rust (Rocket, SurrealDB, wgpu, Dioxus)
+ - Rust (Rocket, SurrealDB, wgpu, Tauri)
  - Python (Django, Litestar, Fret)
  - Haskell
  - Machine Learning
@@ -12,7 +12,7 @@ Interests:
  - SvelteKit
 
 Learning List:
-1. Dioxus
+1. Tauri
 2. Flutter
 3. Rocket.rs & SurrealDB
 4. SvelteKit & Tailwind
