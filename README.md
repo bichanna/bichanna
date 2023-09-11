@@ -9,12 +9,12 @@ Interests:
  - Machine Learning
  - Flutter
  - SvelteKit
+ - Bun (Hono)
 
 Learning List:
-1. Tauri
-2. SvelteKit & Tailwind & Pico.css
-3. Rocket.rs & SurrealDB
-4. Flutter
+1. Flutter
+1. SvelteKit & Tailwind & Pico.css
+2. Rocket.rs & SurrealDB
  
 Hobbies (other than programming):
  - playing piano
