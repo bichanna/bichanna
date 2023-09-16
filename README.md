@@ -7,6 +7,7 @@ Interests:
  - Rust (Rocket, SurrealDB, wgpu, Tauri)
  - Python (Django, Litestar, Flet)
  - C
+ - Pony
  - Machine Learning
  - Flutter
  - SvelteKit
