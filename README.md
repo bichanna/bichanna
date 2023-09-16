@@ -15,6 +15,7 @@ Interests:
 Hobbies (other than programming):
  - playing piano
  - listening to bass solos
+ - listening to J-pop and jazzy pop songs
  - playing tennis
 
 <div align="center">
