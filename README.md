@@ -6,15 +6,10 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 Interests:
  - Rust (Rocket, SurrealDB, wgpu, Tauri)
  - Python (Django, Litestar, Flet)
+ - C
  - Machine Learning
  - Flutter
  - SvelteKit
- - Bun (Hono)
-
-Learning List:
-1. Flutter
-1. SvelteKit & Tailwind & Pico.css
-2. Rocket.rs & SurrealDB
  
 Hobbies (other than programming):
  - playing piano
