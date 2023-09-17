@@ -4,9 +4,9 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 <br>
 
 Interests:
- - Rust
+ - Rust (Rocket, SurrealDB, wgpu)
  - Machine Learning (Python)
- - Haskell
+ - Haskell (IHP)
  - Flutter
  
 Hobbies (other than programming):
