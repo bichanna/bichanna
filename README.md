@@ -4,13 +4,10 @@ I'm just some random Japanese teenager on the internet. <img src="https://user-i
 <br>
 
 Interests:
- - Rust (Rocket, SurrealDB, wgpu, Tauri)
- - Python (Django, Litestar, Flet)
- - C
- - Pony
- - Machine Learning
+ - Rust
+ - Machine Learning (Python)
+ - Haskell
  - Flutter
- - SvelteKit
  
 Hobbies (other than programming):
  - playing piano
