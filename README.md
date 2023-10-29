@@ -7,8 +7,11 @@ Interests:
  - Backend programming
      - IHP (Haskell)
      - Rocket (Rust)
+     - Django (Python)
  - Frontend programming
      - Flutter
+     - Miso (Haskell)
+     - Elm
  - Programming language development
  - Machine learning
  
