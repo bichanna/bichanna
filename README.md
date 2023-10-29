@@ -17,8 +17,11 @@ Interests:
  
 Hobbies (other than programming):
  - Piano
+     - Pop & Gothic
  - Tennis
  - Volleyball
+     - Setter
+     - Outside hitter
 
 <div align="center">
 
