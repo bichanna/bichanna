@@ -4,9 +4,13 @@ I'm a random Japanese teenager on the internet. <img src="https://user-images.gi
 <br>
 
 Interests:
- - Machine learning (Python)
- - Backend programming (Haskell, Rust)
- - Frontend programming (Flutter)
+ - Backend programming
+     - IHP (Haskell)
+     - Rocket (Rust)
+ - Frontend programming
+     - Flutter
+ - Programming language development
+ - Machine learning
  
 Hobbies (other than programming):
  - Piano
