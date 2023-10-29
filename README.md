@@ -4,11 +4,9 @@ I'm a random Japanese teenager on the internet. <img src="https://user-images.gi
 <br>
 
 Interests:
- - Machine Learning
- - Rust
- - Haskell
- - Zig
- - Flutter
+ - Machine learning (Python)
+ - Backend programming (Haskell, Rust)
+ - Frontend programming (Flutter)
  
 Hobbies (other than programming):
  - Piano
