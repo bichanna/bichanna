@@ -8,9 +8,9 @@ Interests:
      - IHP (Haskell)
      - Rocket (Rust)
      - Django (Python)
+     - FastAPI (Python)
  - Frontend programming
      - Flutter
-     - Miso (Haskell)
      - Elm
  - Programming language development
  - Machine learning
