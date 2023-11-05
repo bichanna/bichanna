@@ -7,7 +7,6 @@ Interests:
  - Backend programming
      - IHP (Haskell)
      - Rocket (Rust)
-     - Django (Python)
      - FastAPI (Python)
  - Frontend programming
      - Flutter
