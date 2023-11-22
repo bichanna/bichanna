@@ -8,6 +8,7 @@ Interests:
      - IHP (Haskell)
      - Rocket (Rust)
      - FastAPI (Python)
+     - Zig
  - Frontend programming
      - Flutter
      - Elm
