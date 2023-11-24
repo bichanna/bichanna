@@ -4,25 +4,17 @@ I'm a random teenager on the internet. <img src="https://user-images.githubuserc
 <br>
 
 Interests:
- - Backend programming
-     - IHP (Haskell)
-     - Rocket (Rust)
-     - FastAPI (Python)
-     - Zig
- - Frontend programming
-     - Flutter
-     - Elm
+ - Haskell
+ - Rust
+ - Zig
+ - Flutter
  - Programming language development
  - Machine learning
  
 Hobbies (other than programming):
  - Piano
-     - Pop & Gothic
  - Tennis
  - Volleyball
-     - Setter
-     - Outside hitter
-
 <div align="center">
 
 <!--
