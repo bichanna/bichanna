@@ -5,8 +5,13 @@ I'm a random teenager on the internet. <img src="https://user-images.githubuserc
 
 Interests:
  - Haskell
+    - Miso
  - Rust
+    - Rocket
+    - Axum
+    - Iced
  - Zig
+    - Capy
  - Flutter
  - Programming language development
  - Machine learning
