@@ -4,6 +4,7 @@ I'm a random teenager on the internet. <img src="https://user-images.githubuserc
 <br>
 
 Interests:
+ - Tauri (with Vue.js)
  - JavaScript
     - Vue.js
  - Haskell
@@ -12,7 +13,6 @@ Interests:
     - Rocket
     - Axum
     - Iced
-    - Tauri
  - Flutter
  - Programming language development
  - Machine learning
