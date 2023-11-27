@@ -6,13 +6,13 @@ I'm a random teenager on the internet. <img src="https://user-images.githubuserc
 Interests:
  - JavaScript
     - Vue.js
-    - Electron
  - Haskell
     - Miso
  - Rust
     - Rocket
     - Axum
     - Iced
+    - Tauri
  - Flutter
  - Programming language development
  - Machine learning
