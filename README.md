@@ -1,7 +1,13 @@
 # Hi there, I'm Nobu 👋
 
 I'm a random teenager on the internet. <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
-<br>
+<be>
+
+<!--
+Django 5
+Axum
+SwiftUI
+-->
 
 Interests:
  - JavaScript
