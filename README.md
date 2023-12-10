@@ -14,6 +14,7 @@ Interests:
     - Axum
     - Iced
  - Flutter
+ - SwiftUI
  - Zig
  - Programming language development
  - Machine learning
