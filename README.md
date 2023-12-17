@@ -27,11 +27,14 @@ Interests:
  
 Hobbies (other than programming):
  - Piano
-    - `favoriteComposers = ["Johann Sebastian Bach", "Ayase (Yoasobi)"]`
  - Tennis
-    - `favoriteTennisPlayer = "Rafa Nadal"`
  - Volleyball
-    - `favoriteVolleyballPlayer = "Francesco Recine"`
+
+ ```python
+ favoriteComposers = ["Johann Sebastian Bach", "Ayase (Yoasobi)"]
+ favoriteTennisPlayer = "Rafa Nadal"
+ favoriteVolleyballPlayer = "Francesco Recine"
+ ```
 <div align="center">
 
 <!--
