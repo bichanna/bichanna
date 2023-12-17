@@ -11,6 +11,8 @@ Erlang
 -->
 
 Interests:
+ - Python
+    - Django
  - JavaScript
     - Vue.js
  - Haskell
