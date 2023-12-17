@@ -13,7 +13,7 @@ Interests:
  - JavaScript
     - Vue.js
  - Haskell
-    - Miso
+ - Erlang
  - Rust
     - Rocket
     - Axum
