@@ -6,7 +6,8 @@ I'm a random teenager on the internet. <img src="https://user-images.githubuserc
 <!--
 Django 5
 Axum
-SwiftUI
+Swift
+Erlang
 -->
 
 Interests:
@@ -18,8 +19,7 @@ Interests:
     - Rocket
     - Axum
     - Tauri (with Vue.js)
- - Flutter
- - SwiftUI
+ - iOS development (Swift, SwiftUI)
  - Programming language development
  - Machine learning
  
