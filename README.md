@@ -34,7 +34,7 @@ Hobbies (other than programming):
  favoriteComposers = ["Johann Sebastian Bach", "Ayase", "Phil Collins"]
  favoriteSingers = ["Frank Sinatra", "Laufey", "Mika Nakashima"]
  favoriteTennisPlayer = "Rafa Nadal"
- favoriteVolleyballPlayer = "Francesco Recine"
+ favoriteVolleyballPlayers = ["Francesco Recine", "Ran Takahashi"]
  ```
 <div align="center">
 
