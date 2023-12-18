@@ -31,7 +31,8 @@ Hobbies (other than programming):
  - Volleyball
 
  ```python
- favoriteComposers = ["Johann Sebastian Bach", "Ayase (Yoasobi)"]
+ favoriteComposers = ["Johann Sebastian Bach", "Ayase", "Phil Collins"]
+ favoriteSingers = ["Frank Sinatra", "Laufey", "Mika Nakashima"]
  favoriteTennisPlayer = "Rafa Nadal"
  favoriteVolleyballPlayer = "Francesco Recine"
  ```
