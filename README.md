@@ -14,7 +14,7 @@ Interests:
  - Python
     - Django
  - Haskell
- - Erlang
+ - Elixir
  - Rust
     - Rocket
     - Axum
