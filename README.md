@@ -33,6 +33,7 @@ Hobbies (other than programming):
  ```python
  favoriteComposers = ["Johann Sebastian Bach", "Ayase", "Phil Collins"]
  favoriteSingers = ["Frank Sinatra", "Laufey", "Mika Nakashima"]
+ favoriteScales = ["B-flat major", "F-sharp minor"]
  favoriteTennisPlayer = "Rafa Nadal"
  favoriteVolleyballPlayers = ["Francesco Recine", "Ran Takahashi"]
  ```
