@@ -13,14 +13,11 @@ Erlang
 Interests:
  - Python
     - Django
- - JavaScript
-    - Vue.js
  - Haskell
  - Erlang
  - Rust
     - Rocket
     - Axum
-    - Tauri (with Vue.js)
  - iOS development (Swift, SwiftUI)
  - Programming language development
  - Machine learning
@@ -31,7 +28,7 @@ Hobbies (other than programming):
  - Volleyball
 
  ```python
- favoriteComposers = ["Johann Sebastian Bach", "Ayase", "Phil Collins"]
+ favoriteComposers = ["Johann S. Bach", "Ayase", "Joe Hisaishi"]
  favoriteSingers = ["Frank Sinatra", "Laufey", "Mika Nakashima"]
  favoriteScales = ["B-flat major", "F-sharp minor"]
  favoriteTennisPlayer = "Rafa Nadal"
