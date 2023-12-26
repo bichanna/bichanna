@@ -18,6 +18,7 @@ Interests:
  - Rust
     - Rocket
     - Axum
+    - Pest
  - iOS development (Swift, SwiftUI)
  - Programming language development
  - Machine learning
