@@ -27,12 +27,19 @@ Hobbies (other than programming):
  - Piano
  - Tennis
  - Volleyball
+ - Basketball
 
  ```python
+ favoriteBooks = ["Moribito: Guardian of the Spirit", "Bomb"]
+
  favoriteComposers = ["Johann S. Bach", "Ayase", "Joe Hisaishi"]
+
  favoriteSingers = ["Frank Sinatra", "Laufey", "Mika Nakashima", "Adele"]
+
  favoriteScales = ["B-flat major", "F-sharp minor"]
+
  favoriteTennisPlayer = "Rafa Nadal"
+
  favoriteVolleyballPlayers = ["Francesco Recine", "Ran Takahashi"]
  ```
 <div align="center">
