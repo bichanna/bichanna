@@ -43,7 +43,7 @@ Hobbies (other than programming):
  favoriteVolleyballPlayers = ["Francesco Recine", "Ran Takahashi"]
  ```
 <!--
-  favoriteKPopStars = ["Tsuki - Billie", "Danielle - NewJeans"]
+  favoriteKPopStars = ["Tsuki - Billie", "Danielle - NewJeans", "Sera - Nine Muses"]
 -->
 <div align="center">
 
