@@ -41,6 +41,8 @@ Hobbies (other than programming):
  favoriteTennisPlayer = "Rafa Nadal"
 
  favoriteVolleyballPlayers = ["Francesco Recine", "Ran Takahashi"]
+
+ favoriteSweets = ["Baklava", "Senbei (rice crackers)", "black bean mochi"]
  ```
 <!--
   favoriteKPopStars = ["Tsuki - Billie", "Danielle - NewJeans", "Sera - Nine Muses"]
