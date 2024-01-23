@@ -10,17 +10,12 @@ Swift
 Erlang
 -->
 
-Interests:
- - Python
-    - Django
- - Haskell
- - Gleam
- - Rust
-    - Rocket
-    - Axum
- - iOS development (Swift, SwiftUI)
+Learning:
+ - Rocket & Axum (Rust)
+ - Django (Python)
+ - Angular (TypeScript)
+ - Machine Learning in general
  - Programming language development
- - Machine learning
  
 Hobbies (other than programming):
  - Piano
@@ -28,21 +23,22 @@ Hobbies (other than programming):
  - Volleyball
  - Basketball
 
- ```python
- favoriteBooks = ["Moribito: Guardian of the Spirit", "Bomb"]
-
- favoriteComposers = ["Johann S. Bach", "Ayase", "Joe Hisaishi"]
-
- favoriteSingers = ["Frank Sinatra", "Laufey", "Mika Nakashima", "Adele"]
-
- favoriteScales = ["B-flat major", "F-sharp minor"]
-
- favoriteTennisPlayer = "Rafa Nadal"
-
- favoriteVolleyballPlayers = ["Francesco Recine", "Ran Takahashi"]
-
- favoriteSweets = ["Baklava", "Senbei", "Black bean mochi", "Mille crêpes", "Egg custard buns"]
- ```
+```python
+favorite = {
+    "programming languages": ["Rust"],
+    "books": ["Moribito: Guardian of the Spirit", "Bomb"],
+    "composers": ["Johann S. Bach", "Ayase", "Joe Hisaishi"],
+    "singers": ["Frank Sinatra", "Laufey", "Mika Nakashima", "Adele"],
+    "scales": ["B-flat major", "F-sharp minor"],
+    "sports": {
+        "players": {
+            "tennis": ["Rafa Nadal"],
+            "volleyball": ["Francesco Recine", "Ran Takahashi"]
+        }
+    },
+    "sweets": ["Baklava", "Senbei", "Black bean mochi", "Mille crêpes", "Egg custard buns"]
+}
+```
 <!--
   favoriteKPopStars = ["Tsuki - Billie", "Danielle - NewJeans", "Sera - Nine Muses"]
 -->
