@@ -10,20 +10,20 @@ Swift
 Erlang
 -->
 
-Learning:
- - Rocket & Axum (Rust)
- - Django (Python)
- - Angular (TypeScript)
- - Machine Learning in general
- - Programming language development
- 
-Hobbies (other than programming):
- - Piano
- - Tennis
- - Volleyball
- - Basketball
-
 ```python
+skills = {
+    "Rust": ["Rocket", "Axum", "Diesel"],
+    "Python": ["Django", "PyTorch", "Numpy", "Pandas", "OpenCV", "ML"],
+    "frontend": ["Angular", "TypeScript"],
+}
+
+hobbies = [
+    "piano",
+    "tennis",
+    "volleyball",
+    "basketball",
+]
+
 favorite = {
     "programming languages": ["Rust"],
     "books": ["Moribito: Guardian of the Spirit", "Bomb"],
@@ -36,7 +36,7 @@ favorite = {
             "volleyball": ["Francesco Recine", "Ran Takahashi"]
         }
     },
-    "sweets": ["Baklava", "Senbei", "Black bean mochi", "Mille crêpes", "Egg custard buns"]
+    "sweets": ["baklava", "senbei", "black bean mochi", "ille crêpes", "egg custard buns"]
 }
 ```
 <!--
