@@ -12,8 +12,8 @@ Erlang
 
 ```python
 skills = {
-    "Rust": ["Rocket", "Axum", "Diesel"],
-    "Python": ["Django", "PyTorch", "Numpy", "Pandas", "OpenCV", "ML"],
+    "Rust": ["Rocket", "Axum", "Leptos", "Diesel"],
+    "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV", "ML"],
     "frontend": ["Angular", "TypeScript"],
 }
 
