@@ -37,7 +37,7 @@ favorite = {
         }
     },
     "sweets": ["baklava", "senbei", "black bean mochi", "mille crêpes", "egg custard buns"],
-    "K-pop idols": ["Danielle - NewJeans", "Tsuki - Billlie", "Sera - Nine Muses"],
+    "K-pop idols": ["Tsuki - Billlie", "Danielle - NewJeans"],
 }
 ```
 
