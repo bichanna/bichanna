@@ -36,7 +36,7 @@ favorite = {
             "volleyball": ["Francesco Recine", "Ran Takahashi"]
         }
     },
-    "sweets": ["baklava", "senbei", "black bean mochi", "ille crêpes", "egg custard buns"]
+    "sweets": ["baklava", "senbei", "black bean mochi", "mille crêpes", "egg custard buns"]
 }
 ```
 <!--
