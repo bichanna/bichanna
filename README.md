@@ -36,12 +36,11 @@ favorite = {
             "volleyball": ["Francesco Recine", "Ran Takahashi"]
         }
     },
-    "sweets": ["baklava", "senbei", "black bean mochi", "mille crêpes", "egg custard buns"]
+    "sweets": ["baklava", "senbei", "black bean mochi", "mille crêpes", "egg custard buns"],
+    "K-pop idols": ["Danielle - NewJeans", "Tsuki - Billie", "Sera - Nine Muses"],
 }
 ```
-<!--
-  favoriteKPopStars = ["Tsuki - Billie", "Danielle - NewJeans", "Sera - Nine Muses"]
--->
+
 <div align="center">
 
 <!--
