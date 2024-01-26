@@ -30,14 +30,17 @@ favorite = {
     "composers": ["Johann S. Bach", "Ayase", "Joe Hisaishi"],
     "singers": ["Frank Sinatra", "Laufey", "Mika Nakashima", "Adele"],
     "scales": ["B-flat major", "F-sharp minor"],
+    "sweets": ["baklava", "senbei", "black bean mochi", "mille crêpes", "egg custard buns"],
     "sports": {
         "players": {
             "tennis": ["Rafa Nadal"],
             "volleyball": ["Francesco Recine", "Ran Takahashi"]
         }
     },
-    "sweets": ["baklava", "senbei", "black bean mochi", "mille crêpes", "egg custard buns"],
-    "K-pop idols": ["Tsuki - Billlie", "Danielle - NewJeans"],
+    "K-pop idols": {
+        "Billlie": "Tsuki",
+        "NewJeans": ["Danielle", "Hanni"]
+    }
 }
 ```
 
