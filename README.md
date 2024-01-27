@@ -13,7 +13,7 @@ Erlang
 ```python
 skills = {
     "Rust": ["Rocket", "Axum", "Leptos", "Diesel"],
-    "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV", "ML"],
+    "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV"],
     "frontend": ["Angular", "TypeScript"],
 }
 
@@ -26,11 +26,21 @@ hobbies = [
 
 favorite = {
     "programming languages": ["Rust"],
-    "books": ["Moribito: Guardian of the Spirit", "Bomb"],
+    "books": [
+                "Moribito: Guardian of the Spirit",
+                "Bomb",
+                "From the New World",
+             ],
     "composers": ["Johann S. Bach", "Ayase", "Joe Hisaishi"],
     "singers": ["Frank Sinatra", "Laufey", "Mika Nakashima", "Adele"],
     "scales": ["B-flat major", "F-sharp minor"],
-    "sweets": ["baklava", "senbei", "black bean mochi", "mille crêpes", "egg custard buns"],
+    "sweets": [
+                "baklava",
+                "senbei",
+                "black bean mochi",
+                "mille crêpes",
+                "egg custard buns"
+              ],
     "sports": {
         "players": {
             "tennis": ["Rafa Nadal"],
