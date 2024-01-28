@@ -48,8 +48,8 @@ favorite = {
         }
     },
     "J-pop idols": [
-        "Wink.",
-        "Checkers",
+        "Wink",
+        "The Checkers",
         "Akina Nakamori",
         "Chisato Moritaka",
         "Matsuda Seiko"
