@@ -52,7 +52,6 @@ favorite = {
         "The Checkers",
         "Akina Nakamori",
         "Chisato Moritaka",
-        "Matsuda Seiko"
     ],
     "K-pop idols": {
         "Billlie": ["Tsuki"],
