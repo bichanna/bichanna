@@ -44,8 +44,9 @@ favorite = {
     "sports": {
         "players": {
             "tennis": ["Rafa Nadal"],
-            "volleyball": ["Francesco Recine", "Ran Takahashi"]
-        }
+            "volleyball": ["Francesco Recine", "Ran Takahashi"],
+        },
+        "uniforms": ["LA Angels", "Japan National Men Volleyball Team"],
     },
     "J-pop idols": [
         "Wink",
