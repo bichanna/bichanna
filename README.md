@@ -47,6 +47,13 @@ favorite = {
             "volleyball": ["Francesco Recine", "Ran Takahashi"]
         }
     },
+    "J-pop idols": [
+        "Wink.",
+        "Checkers",
+        "Akina Nakamori",
+        "Chisato Moritaka",
+        "Matsuda Seiko"
+    ],
     "K-pop idols": {
         "Billlie": ["Tsuki"],
         "NewJeans": ["Danielle", "Hanni"],
