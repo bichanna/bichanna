@@ -48,8 +48,9 @@ favorite = {
         }
     },
     "K-pop idols": {
-        "Billlie": "Tsuki",
-        "NewJeans": ["Danielle", "Hanni"]
+        "Billlie": ["Tsuki"],
+        "NewJeans": ["Danielle", "Hanni"],
+        "Twice": ["Jihyo"]
     }
 }
 ```
