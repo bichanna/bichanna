@@ -15,6 +15,7 @@ skills = {
     "Rust": ["Rocket", "Axum", "Leptos", "Diesel"],
     "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV"],
     "frontend": ["Angular", "TypeScript"],
+    "others": ["Go", "C++", "Nim", "Docker"]
 }
 
 hobbies = [
