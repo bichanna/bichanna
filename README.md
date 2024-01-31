@@ -18,6 +18,8 @@ skills = {
     "others": ["Go", "C++", "Nim", "Docker"]
 }
 
+learning = ["Angular", "TypeScript", "C++"]
+
 hobbies = [
     "piano",
     "tennis",
