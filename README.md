@@ -12,13 +12,14 @@ Erlang
 
 ```python
 skills = {
-    "Rust": ["Axum", "Leptos", "Slint", "Diesel"],
+    "Rust": ["Axum", "Iced", "Slint"],
     "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV"],
     "frontend": ["Angular", "TypeScript"],
     "others": ["Go", "C++", "Nim", "Docker"]
 }
 
-learning = ["Angular", "Slint", "C++"]
+learning = ["PyTorch", "Slint", "C++"]
+will_learn = ["Axum", "Iced", "Angular"]
 
 hobbies = [
     "piano",
