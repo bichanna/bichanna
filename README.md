@@ -18,7 +18,12 @@ skills = {
     "others": ["Go", "C++", "Nim", "Docker"]
 }
 
-learning = ["PyTorch", "Axum", "C++"]
+learning = ["PyTorch",
+            "Axum",
+            "C++",
+            "Calculus",
+            "Linear Algebra"]
+
 will_learn = ["Slint", "Iced", "Angular"]
 
 hobbies = [
