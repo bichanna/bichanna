@@ -12,44 +12,51 @@ Erlang
 
 ```python
 skills = {
-    "Rust": ["Axum", "Iced", "Slint", "Leptos"],
+    "Rust": ["Axum", "Iced", "Leptos"],
     "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV"],
     "frontend": ["Angular", "TypeScript"],
     "others": ["Go", "C++", "Nim", "Docker"]
 }
 
-learning = ["PyTorch",
-            "Axum",
-            "Leptos",
-            "Calculus",
-            "Linear Algebra"]
-
-will_learn = ["Slint", "Iced", "Angular"]
-
 hobbies = [
-    "piano",
-    "tennis",
-    "volleyball",
-    "basketball",
+    "Piano",
+    "Tennis",
+    "Volleyball",
+    "Basketball",
+    "Cooking",
 ]
 
 favorite = {
-    "programming languages": ["Rust"],
+    "programming languages": ["Rust", "Python"],
     "books": [
-                "Moribito: Guardian of the Spirit",
-                "Bomb",
-                "From the New World",
-             ],
-    "composers": ["Johann S. Bach", "Ayase", "Joe Hisaishi"],
-    "singers": ["Frank Sinatra", "Laufey", "Mika Nakashima", "Adele"],
+        "Moribito: Guardian of the Spirit",
+        "Bomb",
+        "From the New World",
+    ],
+    "text editors": ["Doom Emacs", "NeoVim", "VSCode"],
+    "composers": [
+        "Johann S. Bach",
+        "Ayase",
+        "Joe Hisaishi",
+        "Ryuichi Sakamoto",
+    ],
+    "singers": [
+        "Frank Sinatra",
+        "Laufey",
+        "Mika Nakashima",
+        "Adele"
+    ],
     "scales": ["B-flat major", "F-sharp minor"],
+    "colors": ["Black", "White", "Gray"],
     "sweets": [
-                "baklava",
-                "senbei",
-                "black bean mochi",
-                "mille crêpes",
-                "egg custard buns"
-              ],
+        "Senbei",
+        "Black bean mochi",
+        "Zenzai",
+        "Mille crêpes",
+        "Egg custard buns",
+        "Chè đậu ván",
+        "Baklava",
+    ],
     "sports": {
         "players": {
             "tennis": ["Rafa Nadal"],
@@ -58,7 +65,6 @@ favorite = {
         "uniforms": ["LA Angels", "Japan National Men Volleyball Team"],
     },
     "J-pop idols": [
-        "Wink",
         "The Checkers",
         "Akina Nakamori",
         "Chisato Moritaka",
@@ -66,7 +72,7 @@ favorite = {
     "K-pop idols": {
         "Billlie": ["Tsuki"],
         "NewJeans": ["Danielle", "Hanni"],
-        "Twice": ["Jihyo"]
+        "Twice": ["Jihyo", "Tzuyu"],
     }
 }
 ```
