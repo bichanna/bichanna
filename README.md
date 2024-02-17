@@ -68,12 +68,10 @@ favorite = {
         "The Checkers",
         "Akina Nakamori",
         "Chisato Moritaka",
-        "MiSaMo",
     ],
     "K-pop idols": {
         "Billlie": ["Tsuki"],
-        "NewJeans": ["Danielle", "Hanni"],
-        "Twice": ["Jihyo", "Tzuyu", "Momo"],
+        "Twice": ["Jihyo", "Tzuyu", "Momo", "Mina"],
     }
 }
 ```
