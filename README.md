@@ -14,8 +14,7 @@ Erlang
 skills = {
     "Rust": ["Axum", "Iced", "Leptos"],
     "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV"],
-    "frontend": ["Angular", "TypeScript"],
-    "others": ["Go", "C++", "Nim", "Docker"]
+    "others": ["Go", "Scala", "Nim"]
 }
 
 hobbies = [
