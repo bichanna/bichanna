@@ -12,7 +12,7 @@ Erlang
 
 ```python
 skills = {
-    "Rust": ["Axum", "Iced", "Leptos"],
+    "Rust": ["Axum", "Slint", "Leptos"],
     "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV"],
     "others": ["Go", "Scala", "Nim"]
 }
