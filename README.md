@@ -21,7 +21,6 @@ hobbies = [
     "Piano",
     "Tennis",
     "Volleyball",
-    "Basketball",
     "Cooking",
 ]
 
@@ -67,12 +66,9 @@ favorite = {
         "The Checkers",
         "Akina Nakamori",
         "Chisato Moritaka",
-        "MiSaMo",
+        "Mina (MiSaMo)",
     ],
-    "K-pop idols": {
-        "Billlie": ["Tsuki"],
-        "Twice": ["Jihyo", "Mina"],
-    }
+    "K-pop idols": ["Tsuki (Billlie)", "Mina (Twice)"]
 }
 ```
 
