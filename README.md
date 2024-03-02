@@ -71,7 +71,7 @@ favorite = {
     ],
     "K-pop idols": {
         "Billlie": ["Tsuki"],
-        "Twice": ["Jihyo", "Tzuyu", "Mina"],
+        "Twice": ["Jihyo", "Mina"],
     }
 }
 ```
