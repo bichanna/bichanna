@@ -76,8 +76,8 @@ favorite = {
     ],
     "K-pop idols": [
         "Tsuki (Billlie)", # Cute
-        "Mina (Twice)",    # Elegant
-        "Jihyo (Twice)",   # Fun
+        "Mina (Twice)",    # Beautiful
+        "Jihyo (Twice)",   # Funny
     ]
 }
 ```
