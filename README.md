@@ -18,59 +18,66 @@ skills = {
 }
 
 hobbies = [
-    "Piano",
+    "Piano",      # I play mostly classical sheets, sometimes pop songs
     "Tennis",
-    "Volleyball",
+    "Volleyball", # Opposite hitter
     "Cooking",
 ]
 
 favorite = {
-    "programming languages": ["Rust", "Python"],
+    "programming languages": [
+        "Rust",  # Just the best language so far
+        "Python" # Easier to write && easier to prototype
+    ],
     "books": [
         "Moribito: Guardian of the Spirit",
         "Bomb",
         "From the New World",
     ],
-    "text editors": ["Doom Emacs", "NeoVim", "VSCode"],
+    "text editors": [
+        "Doom Emacs", # Use most of the time
+        "NeoVim"      # When working on small scripts
+    ],
+    "sweets": [
+        "Senbei",           # Soy sauce 
+        "Black bean mochi", # More beans
+        "Zenzai",           # I like it more watery
+        "Mille crêpe",      # More whipped cream
+        "Egg custard bun",  # As much custard as possible
+        "Chè đậu ván",      # Less sweet to taste more of the beans
+        "Baklava",          # I like pistachio ones
+    ],
     "composers": [
-        "Johann S. Bach",
-        "Ayase",
-        "Joe Hisaishi",
-        "Ryuichi Sakamoto",
+        "Johann S. Bach",   # Soothes my mind
+        "Joseph Haydn",     # Overwelms me (in a good way)
+        "Ayase",            # Awesome lyrics
+        "Joe Hisaishi",     # Sets my mood for the day
+        "Ryuichi Sakamoto", # Merry Christmas Mr. Lawrence
     ],
     "singers": [
         "Frank Sinatra",
-        "Laufey",
-        "Mika Nakashima",
-        "Adele"
+        "Laufey",         
+        "Mika Nakashima", 
+        "Adele" 
     ],
     "scales": ["B-flat major", "F-sharp minor"],
     "colors": ["Black", "White", "Gray"],
-    "sweets": [
-        "Senbei",
-        "Black bean mochi",
-        "Zenzai",
-        "Mille crêpes",
-        "Egg custard buns",
-        "Chè đậu ván",
-        "Baklava",
-    ],
     "sports": {
         "players": {
-            "tennis": ["Rafa Nadal"],
+            "tennis": "Rafa Nadal", # Favorite play style
             "volleyball": ["Francesco Recine", "Ran Takahashi"],
         },
         "uniforms": ["LA Angels", "Japan National Men Volleyball Team"],
     },
     "J-pop idols": [
-        "The Checkers",
-        "Akina Nakamori",
-        "Chisato Moritaka",
+        "The Checkers",     # Weird hair of Fumiya Fujii
+        "Akina Nakamori",   # Best visual in the 80s
+        "Chisato Moritaka", # Best style in the 80s && 90s
     ],
     "K-pop idols": [
-        "Tsuki (Billlie)",
-        "Mina (Twice)",
-        "Jihyo (Twice)",
+        "Tsuki (Billlie)", # Cute
+        "Mina (Twice)",    # Elegant
+        "Jihyo (Twice)",   # Fun
     ]
 }
 ```
