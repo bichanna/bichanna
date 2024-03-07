@@ -71,7 +71,7 @@ favorite = {
     },
     "J-pop idols": [
         "The Checkers",     # Weird hair of Fumiya Fujii
-        "Akina Nakamori",   # Best visual in the 80s
+        "Akina Nakamori",   # Best overall in the 80s
         "Chisato Moritaka", # Best style in the 80s && 90s
     ],
     "K-pop idols": [
