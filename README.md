@@ -4,10 +4,10 @@ I'm a random autistic & ADHD teenager on the internet. <img src="https://user-im
 <be>
 
 <!--
-Django 5
-Axum
-Swift
-Erlang
+
+Project ideas
+ - File transferring app with Bluetooth
+
 -->
 
 ```python
@@ -75,18 +75,18 @@ favorite = {
         "Chisato Moritaka", # Best style in the 80s && 90s
     ],
     "K-pop idols": [
-        "Tsuki (Billlie)", # Cute
-        "Mina (Twice)",    # Beautiful
-        "Jihyo (Twice)",   # Funny
+        "Tsuki (Billlie)", # Pretty
+        "Mina (Twice)",    # Stunning
+        "Jihyo (Twice)",   # Beautiful
     ]
 }
 ```
 
 <div align="center">
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
+
+<!-- https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84 -->
+
 <a href="https://github.com/bichanna/github-stats#gh-dark-mode-only">
 <img src="https://github.com/bichanna/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/bichanna/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
