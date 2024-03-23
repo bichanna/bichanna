@@ -75,7 +75,7 @@ favorite = {
         "Chisato Moritaka", # Best style in the 80s && 90s
     ],
     "K-pop idols": [
-        "Tsuki (Billlie)", # Pretty
+        "Gaeul (IVE)",     # Short hair
         "Mina (Twice)",    # Stunning
         "Jihyo (Twice)",   # Beautiful
     ]
