@@ -78,6 +78,7 @@ favorite = {
         "Gaeul (IVE)",     # Straight short hair
         "Mina (Twice)",    # Stunning
         "Jihyo (Twice)",   # Beautiful
+        "Jungkook (BTS)",  # Muscular
     ]
 }
 ```
