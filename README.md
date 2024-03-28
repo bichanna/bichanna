@@ -76,8 +76,8 @@ favorite = {
     ],
     "K-pop idols": {
         "IVE": [
-            "Gaeul",       # Short straight hair
-            "Yujin",       # Tall
+            "Gaeul",       # Short hair
+            "Yujin",       # Tall & Short hair
         ],       
         "Twice": "Mina",   # Stunning
         "BTS": "Jungkook", # Muscular
