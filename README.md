@@ -75,9 +75,12 @@ favorite = {
         "Chisato Moritaka", # Best style in the 80s && 90s
     ],
     "K-pop idols": {
-        "IVE": "Gaeul",       # Short straight hair
-        "Twice": "Mina",      # Stunning
-        "BTS": "Jungkook",    # Muscular
+        "IVE": [
+            "Gaeul",       # Short straight hair
+            "Yujin",       # Tall
+        ],       
+        "Twice": "Mina",   # Stunning
+        "BTS": "Jungkook", # Muscular
     }
 }
 ```
