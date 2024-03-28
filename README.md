@@ -74,12 +74,11 @@ favorite = {
         "Akina Nakamori",   # Best overall in the 80s
         "Chisato Moritaka", # Best style in the 80s && 90s
     ],
-    "K-pop idols": [
-        "Gaeul (IVE)",     # Straight short hair
-        "Mina (Twice)",    # Stunning
-        "Jihyo (Twice)",   # Beautiful
-        "Jungkook (BTS)",  # Muscular
-    ]
+    "K-pop idols": {
+        "IVE": "Gaeul",       # Short straight hair
+        "Twice": "Mina",      # Stunning
+        "BTS": "Jungkook",    # Muscular
+    }
 }
 ```
 
