@@ -18,6 +18,8 @@ skills = {
 }
 -->
 
+
+<!--
 ```python
 favorite = {
     "programming languages": [
@@ -68,7 +70,7 @@ favorite = {
     }
 }
 ```
-
+-->
 <div align="center">
 
 
