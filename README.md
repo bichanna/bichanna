@@ -10,20 +10,15 @@ Project ideas
 
 -->
 
-```python
+<!--
 skills = {
     "Rust": ["Axum", "Slint", "Leptos"],
     "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV"],
-    "others": ["Go", "Scala", "OCaml", "Nim"]
+    "others": ["Go", "Nim"]
 }
+-->
 
-hobbies = [
-    "Piano",      # I play mostly classical sheets, sometimes pop songs
-    "Tennis",
-    "Volleyball", # Opposite hitter
-    "Cooking",
-]
-
+```python
 favorite = {
     "programming languages": [
         "Rust",  # Just the best language so far
@@ -33,10 +28,6 @@ favorite = {
         "Moribito: Guardian of the Spirit",
         "Bomb",
         "From the New World",
-    ],
-    "text editors": [
-        "Doom Emacs", # Use most of the time
-        "NeoVim"      # When working on small scripts
     ],
     "sweets": [
         "Senbei",           # Soy sauce 
@@ -62,13 +53,6 @@ favorite = {
     ],
     "scales": ["B-flat major", "F-sharp minor"],
     "colors": ["Black", "White", "Gray"],
-    "sports": {
-        "players": {
-            "tennis": "Rafa Nadal", # Favorite play style
-            "volleyball": ["Francesco Recine", "Ran Takahashi"],
-        },
-        "uniforms": ["LA Angels", "Japan National Men Volleyball Team"],
-    },
     "J-pop idols": [
         "The Checkers",     # Weird hair of Fumiya Fujii
         "Akina Nakamori",   # Best overall in the 80s
