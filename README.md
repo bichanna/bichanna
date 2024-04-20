@@ -11,13 +11,11 @@ Project ideas
  - Rapid note-taking app, like how I write notes
 -->
 
-<!--
 Stuff to learn:
  - Scala  [Akka, Spark?, Kafka, Ammonite]
  - Rust   [Rocket, flutter_rust_bridge, Dioxus?]
  - Python [Django, Flask?]
  - Dart   [Flutter]
--->
 
 
 
