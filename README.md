@@ -6,17 +6,19 @@ I'm a random autistic & ADHD teenager on the internet. <img src="https://user-im
 <!--
 
 Project ideas
- - File transferring app with Bluetooth
-
+ - https://github.com/adam-mcdaniel/rsa
+ - https://github.com/adam-mcdaniel/vpn
+ - Rapid note-taking app, like how I write notes
 -->
 
 <!--
-skills = {
-    "Rust": ["Axum", "Slint", "Leptos"],
-    "Python": ["Django", "SQLAlchemy", "PyTorch", "Numpy", "Pandas", "OpenCV"],
-    "others": ["Go", "Nim"]
-}
+Stuff to learn:
+ - Scala  [Akka, Spark?, Kafka, Ammonite]
+ - Rust   [Rocket, flutter_rust_bridge, Dioxus?]
+ - Python [Django, Flask?]
+ - Dart   [Flutter]
 -->
+
 
 
 <!--
