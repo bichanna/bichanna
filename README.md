@@ -12,7 +12,7 @@ Project ideas
 -->
 
 Stuff to learn:
- - Frontend [Anguar, PrimeNG]
+ - Frontend [Anguar, PrimeNG, Elm]
  - Scala    [Akka, Kafka]
  - Rust     [Rocket, flutter_rust_bridge]
  - Python   [Django]
