@@ -13,7 +13,7 @@ Project ideas
 
 Stuff to learn:
  - Frontend [Anguar, PrimeNG, Elm]
- - Go       [Fyne]
+ - Go       [Fyne, Mo]
  - Rust     [Rocket, flutter_rust_bridge]
  - Python   [Django]
  - Dart     [Flutter]
