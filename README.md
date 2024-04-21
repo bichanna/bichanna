@@ -12,10 +12,11 @@ Project ideas
 -->
 
 Stuff to learn:
- - Scala  [Akka, Spark?, Kafka, Ammonite]
- - Rust   [Rocket, flutter_rust_bridge, Dioxus?]
- - Python [Django, Flask?]
- - Dart   [Flutter]
+ - Frontend [Anguar, PrimeNG]
+ - Scala    [Akka, Kafka]
+ - Rust     [Rocket, flutter_rust_bridge]
+ - Python   [Django]
+ - Dart     [Flutter]
 
 
 
