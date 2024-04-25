@@ -57,6 +57,7 @@ favorite = {
     "scales": ["B-flat major", "F-sharp minor"],
     "colors": ["Black", "White", "Gray"],
     "J-pop idols": [
+        "Buono!",           # Cutest!
         "The Checkers",     # Weird hair of Fumiya Fujii
         "Akina Nakamori",   # Best overall in the 80s
         "Chisato Moritaka", # Best style in the 80s && 90s
