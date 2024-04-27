@@ -12,9 +12,9 @@ Project ideas
 -->
 
 Stuff to learn:
- - Frontend [Anguar, Vue]
+ - Frontend [Vue]
  - Rust     [Rocket, Tauri, SurrealDB]
- - Python   [Django, Flask]
+ - Python   [Flask]
  - Dart     [Flutter]
  - C++      [ROS, CMake]
 
