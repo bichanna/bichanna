@@ -16,7 +16,7 @@ Stuff to learn:
  - Rust     [Rocket, Tauri, Burn]
  - Python   [Django, Flask]
  - Dart     [Flutter]
-
+ - C++      [ROS]
 
 
 <!--
