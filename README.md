@@ -12,9 +12,8 @@ Project ideas
 -->
 
 Stuff to learn:
- - Frontend [Anguar, PrimeNG, Elm]
- - Go       [Fyne, Mo]
- - Rust     [Rocket, flutter_rust_bridge]
+ - Frontend [Anguar, Vue]
+ - Rust     [Rocket, Tauri]
  - Python   [Django]
  - Dart     [Flutter]
 
