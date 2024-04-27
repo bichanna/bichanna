@@ -14,7 +14,7 @@ Project ideas
 Stuff to learn:
  - Frontend [Anguar, Vue]
  - Rust     [Rocket, Tauri, Burn]
- - Python   [Django]
+ - Python   [Django, Flutter]
  - Dart     [Flutter]
 
 
