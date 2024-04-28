@@ -14,7 +14,7 @@ Project ideas
 
 Stuff to learn:
  - Frontend [Vue]
- - Rust     [Rocket, Tauri, SurrealDB]
+ - Rust     [Rocket, Tauri, SurrealDB, Bevy]
  - Python   [Flask]
  - Dart     [Flutter]
  - C++      [ROS, CMake]
