@@ -8,7 +8,8 @@ I'm a random autistic & ADHD teenager on the internet. <img src="https://user-im
 Project ideas
  - https://github.com/adam-mcdaniel/rsa
  - https://github.com/adam-mcdaniel/vpn
- - Rapid note-taking app, like how I write notes
+ - Rapid note-taking app, like how I write notes on sticky notes
+ - Cool-terminal-stuff app
 -->
 
 Stuff to learn:
