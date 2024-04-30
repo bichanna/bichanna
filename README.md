@@ -64,11 +64,12 @@ favorite = {
     ],
     "K-pop idols": {
         "IVE": [
-            "Gaeul",       # Short hair
+            "Liz",         # Tall
             "Yujin",       # Tall & Short hair
         ],       
         "Twice": "Mina",   # Stunning
         "BTS": "Jungkook", # Muscular
+        "ILLIT": "Iroha",  # So cute
     }
 }
 ```
