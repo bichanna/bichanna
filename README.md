@@ -67,9 +67,10 @@ favorite = {
             "Liz",         # Tall & Unique visual
             "Yujin",       # Tall & Short hair
         ],       
-        "Twice": "Mina",   # Stunning
-        "BTS": "Jungkook", # Muscular
-        "ILLIT": "Iroha",  # So cute
+        "Twice": "Mina",        # Stunning
+        "BTS": "Jungkook",      # Muscular
+        "ILLIT": "Iroha",       # So cute
+        "Le Sserafim": "Yunjin" # Tall
     }
 }
 ```
