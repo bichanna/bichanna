@@ -9,7 +9,7 @@ Project ideas
  - https://github.com/adam-mcdaniel/rsa
  - https://github.com/adam-mcdaniel/vpn
  - Rapid note-taking app, like how I write notes on sticky notes
- - Cool-terminal-stuff app
+ - Like-installing-packages app for bragging
 -->
 
 Stuff to learn:
