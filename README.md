@@ -19,6 +19,10 @@ Stuff to learn:
  - Dart     [Flutter]
  - C++      [ROS, CMake]
 
+Maybe:
+ - Dart     [Flutter]
+ - Haskell  [Servent, Miso, Yesod] <- in this order
+
 
 <!--
 ```python
