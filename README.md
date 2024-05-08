@@ -13,7 +13,7 @@ Project ideas
 -->
 
 Stuff to learn:
- - Frontend [Angular]
+ - Frontend [Vue, Solid.JS]
  - Rust     [Rocket, Tauri, SurrealDB, Bevy]
  - Python   [Flask, FastAPI]
  - Dart     [Flutter]
