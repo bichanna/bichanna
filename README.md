@@ -68,7 +68,7 @@ favorite = {
     ],
     "K-pop idols": {
         "IVE": [
-            "Liz",         # Tall & Unique visual
+            "Leeseo",      # Tall & Cute
             "Yujin",       # Tall & Short hair
         ],       
         "Twice": "Mina",        # Stunning
