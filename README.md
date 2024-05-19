@@ -16,12 +16,11 @@ Stuff to learn:
  - Frontend [Solid.JS, Tailwind, Svelte]    <!-- Flowbite -->
  - Rust     [Rocket, Tauri]                 <!-- SurrealDB -->
  - Python   [Flask, FastAPI, Django]
- - Dart     [Flutter]
  - C++      [ROS, CMake]
 
 Maybe:
  - Dart     [Flutter]
- - Haskell  [Servent, Miso, Yesod] <- in this order
+ - Zig      
 
 
 <!--
