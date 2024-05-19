@@ -13,9 +13,9 @@ Project ideas
 -->
 
 Stuff to learn:
- - Frontend [Solid.JS, Tailwind]    <!-- Flowbite -->
- - Rust     [Rocket, Tauri]         <!-- Bevy, SurrealDB -->
- - Python   [Flask, FastAPI]
+ - Frontend [Solid.JS, Tailwind, Svelte]    <!-- Flowbite -->
+ - Rust     [Rocket, Tauri]                 <!-- SurrealDB -->
+ - Python   [Flask, FastAPI, Django]
  - Dart     [Flutter]
  - C++      [ROS, CMake]
 
