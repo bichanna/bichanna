@@ -1,6 +1,6 @@
 # Hi there, I'm Nobu 👋
 
-I'm a random teenager on the internet. <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
+I'm a random Japanese teenager on the internet. <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
 <be>
 
 <!--
@@ -13,10 +13,10 @@ Project ideas
 -->
 
 Stuff to learn:
- - Frontend [Solid.JS, Tailwind, Svelte]    <!-- Flowbite -->
- - Rust     [Rocket, Tauri]                 <!-- SurrealDB -->
+ - Frontend [Solid.JS, Tailwind]    <!-- Flowbite -->
+ - Rust     [Rocket, Tauri, Iroh]                 <!-- SurrealDB -->
+ - C++      [ROS, CMake, Meson]
  - Python   [Flask, FastAPI, Django]
- - C++      [ROS, CMake]
 
 Maybe:
  - Dart     [Flutter]
