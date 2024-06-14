@@ -18,11 +18,6 @@ Stuff to learn:
  - C++      [ROS, CMake, Meson]
  - Python   [Flask, FastAPI, Django]
 
-Maybe:
- - Dart     [Flutter]
- - Zig      
-
-
 <!--
 ```python
 favorite = {
