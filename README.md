@@ -66,7 +66,7 @@ favorite = {
             "Yujin",
         ],
         "Momoland": "Nancy",
-        "Twice": "Mina",
+        "Twice": "Sana",
         "BTS": "Jungkook",
         "ILLIT": "Iroha", 
         "Le Sserafim": "Yunjin"
