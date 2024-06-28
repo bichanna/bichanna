@@ -30,7 +30,7 @@ favorite = {
         "Bomb",
         "From the New World",
     ],
-    "sweets": [
+    "snacks & sweets": [
         "Senbei",           # Soy sauce 
         "Black bean mochi", # More beans
         "Zenzai",           # I like it more watery
@@ -47,7 +47,7 @@ favorite = {
         "Ryuichi Sakamoto", # Merry Christmas Mr. Lawrence
     ],
     "singers": [
-        "Frank Sinatra",
+        "Lewis Capaldi",
         "Laufey",         
         "Mika Nakashima", 
         "Adele" 
