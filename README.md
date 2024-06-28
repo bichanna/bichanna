@@ -69,7 +69,8 @@ favorite = {
         "Twice": "Sana",
         "BTS": "Jungkook",
         "ILLIT": "Iroha", 
-        "Le Sserafim": "Yunjin"
+        "Le Sserafim": "Yunjin",
+        "NewJeans": "Hanni"
     }
 }
 ```
