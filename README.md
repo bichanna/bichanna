@@ -18,6 +18,10 @@ Stuff to learn:
  - C++      [ROS, CMake, Meson]
  - Python   [Flask, FastAPI, Django]
 
+Hobbies:
+ - Volleyball
+   - Setter (5' 9")
+
 <!--
 ```python
 favorite = {
