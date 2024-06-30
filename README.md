@@ -20,7 +20,7 @@ Stuff to learn:
 
 Hobbies:
  - Volleyball
-   - Setter (5' 9")
+   - Setter (5' 10")
 
 <!--
 ```python
