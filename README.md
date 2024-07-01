@@ -29,7 +29,7 @@ favorite = {
         "Rust",  # Just the best language so far
     ],
     "sports": [
-        "Volleyball" # Setter 5' 9"
+        "Volleyball" # Setter 5' 10"
     ],
     "books": [
         "Moribito: Guardian of the Spirit (精霊の守り人)",
