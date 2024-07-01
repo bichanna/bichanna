@@ -30,7 +30,7 @@ favorite = {
     ],
     "sports": [
         "Volleyball" # Setter 5' 9"
-    ]
+    ],
     "books": [
         "Moribito: Guardian of the Spirit (精霊の守り人)",
         "The Dancing Girl (舞姫)"
