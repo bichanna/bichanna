@@ -12,25 +12,28 @@ Project ideas
  - Like-installing-packages app for bragging
 -->
 
-Stuff to learn:
- - Frontend [Solid.JS, Tailwind]    <!-- Flowbite -->
- - Rust     [Rocket, Tauri, Iroh]                 <!-- SurrealDB -->
- - C++      [ROS, CMake, Meson]
- - Python   [Flask, FastAPI, Django]
-
-Hobbies:
- - Volleyball
-   - Setter (5' 10")
 
 <!--
+Stuff to learn:
+ - Frontend [Solid.JS, Tailwind] 
+ - Rust     [Rocket, Tauri, Iroh]                
+ - C++      [ROS, CMake, Meson]
+ - Python   [Flask, FastAPI, Django]
+-->
+
+
+
 ```python
 favorite = {
     "programming languages": [
         "Rust",  # Just the best language so far
-        "Python" # Easier to write && easier to prototype
     ],
+    "sports": [
+        "Volleyball" # Setter 5' 9"
+    ]
     "books": [
-        "Moribito: Guardian of the Spirit",
+        "Moribito: Guardian of the Spirit (精霊の守り人)",
+        "The Dancing Girl (舞姫)"
         "Bomb",
         "From the New World",
     ],
@@ -45,7 +48,6 @@ favorite = {
     ],
     "composers": [
         "Johann S. Bach",   # Soothes my mind
-        "Joseph Haydn",     # Overwelms me (in a good way)
         "Ayase",            # Awesome lyrics
         "Joe Hisaishi",     # Sets my mood for the day
         "Ryuichi Sakamoto", # Merry Christmas Mr. Lawrence
@@ -57,14 +59,19 @@ favorite = {
         "Adele" 
     ],
     "scales": ["B-flat major", "F-sharp minor"],
-    "colors": ["Black", "White", "Gray"],
-    "J-pop idols": [
+    "colors": ["Black", "White", "Gray"]
+}
+```
+
+<!--
+"J-pop idols": [
         "Buono!",           # Cutest!
         "The Checkers",     # Weird hair of Fumiya Fujii
         "Akina Nakamori",   # Best overall in the 80s
         "Chisato Moritaka", # Best style in the 80s && 90s
-    ],
-    "K-pop idols": {
+    ]
+
+"K-pop idols": {
         "IVE": [
             "Leeseo",
             "Yujin",
@@ -76,9 +83,8 @@ favorite = {
         "Le Sserafim": "Yunjin",
         "NewJeans": "Hanni"
     }
-}
-```
 -->
+
 <div align="center">
 
 
