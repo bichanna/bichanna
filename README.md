@@ -33,7 +33,7 @@ favorite = {
     ],
     "books": [
         "Moribito: Guardian of the Spirit (精霊の守り人)",
-        "The Dancing Girl (舞姫)"
+        "The Dancing Girl (舞姫)"                         # 踊り子 sounds like this novel
         "Bomb",
         "From the New World",
     ],
