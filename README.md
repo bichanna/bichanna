@@ -9,7 +9,12 @@ Project ideas
  - https://github.com/adam-mcdaniel/rsa
  - https://github.com/adam-mcdaniel/vpn
  - Rapid note-taking app, like how I write notes on sticky notes
- - Like-installing-packages app for bragging
+ 
+ - Generating Songs With Neural Networks (https://github.com/HackerPoet/Composer)
+ - Fractal visualizer
+ - Keyboard-controlled mouse
+ - Face from sketches (https://github.com/HackerPoet/DeepDoodle)
+ - Image into ASCII art (https://www.youtube.com/watch?v=gg40RWiaHRY&t=0s)
 -->
 
 
