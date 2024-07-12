@@ -36,6 +36,10 @@ favorite = {
     "sports": [
         "Volleyball" # Setter (sometimes opposite hitter)
     ],
+    "players": [
+        "Antoine Brizard", # Setter
+        "Masahiro Sekita"  # Setter
+    ],
     "books": [
         "Moribito: Guardian of the Spirit (精霊の守り人)",
         "The Dancing Girl (舞姫)" # The song 踊り子 sounds like this novel
