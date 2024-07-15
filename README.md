@@ -15,6 +15,7 @@ Project ideas
  - Keyboard-controlled mouse
  - Face from sketches (https://github.com/HackerPoet/DeepDoodle)
  - Image into ASCII art (https://www.youtube.com/watch?v=gg40RWiaHRY&t=0s)
+ - 2048 with Raylib
 -->
 
 
