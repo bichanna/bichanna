@@ -38,8 +38,10 @@ favorite = {
         "Volleyball" # Setter (sometimes opposite hitter)
     ],
     "players": [
-        "Antoine Brizard", # Setter
-        "Masahiro Sekita"  # Setter
+        "Antoine Brizard",   # Volleyball
+        "Masahiro Sekita",   # Volleyball
+        "Kentaro Takahashi", # Volleyball
+        "Ichiro Suzuki",     # Baseball
     ],
     "books": [
         "Moribito: Guardian of the Spirit (精霊の守り人)",
