@@ -21,9 +21,8 @@ Project ideas
 
 <!--
 Stuff to learn:
- - Common Lisp 
- - Gleam & Erlang
- - Rust        [Rocket, Tauri, Iroh]                
+ - Common Lisp
+ - Rust        [Rocket, Tauri, Iroh]
  - C++         [ROS, CMake, Meson]
  - Python      [Flask, FastAPI, Django]
 -->
@@ -36,7 +35,6 @@ favorite = {
         "Rust",  # Just the best language so far
         "Python",
         "C",
-        "Common Lisp"
     ],
     "sports": [
         "Volleyball" # Setter (sometimes opposite hitter)
