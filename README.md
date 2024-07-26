@@ -21,7 +21,6 @@ Project ideas
 
 <!--
 Stuff to learn:
- - Common Lisp
  - Rust        [Rocket, Tauri, Iroh]
  - C++         [ROS, CMake, Meson]
  - Python      [Flask, FastAPI, Django]
