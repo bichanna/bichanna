@@ -21,10 +21,10 @@ Project ideas
 
 <!--
 Stuff to learn:
- - Frontend [Solid.JS, Tailwind] 
- - Rust     [Rocket, Tauri, Iroh]                
- - C++      [ROS, CMake, Meson]
- - Python   [Flask, FastAPI, Django]
+ - Common Lisp 
+ - Rust        [Rocket, Tauri, Iroh]                
+ - C++         [ROS, CMake, Meson]
+ - Python      [Flask, FastAPI, Django]
 -->
 
 
