@@ -33,6 +33,9 @@ Stuff to learn:
 favorite = {
     "programming languages": [
         "Rust",  # Just the best language so far
+        "Python",
+        "C",
+        "Common Lisp"
     ],
     "sports": [
         "Volleyball" # Setter (sometimes opposite hitter)
