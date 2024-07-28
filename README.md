@@ -22,6 +22,7 @@ Project ideas
 <!--
 Stuff to learn:
  - Rust        [Rocket, Tauri, Iroh]
+ - Haskell  
  - C++         [ROS, CMake, Meson]
  - Python      [Flask, FastAPI, Django]
 -->
