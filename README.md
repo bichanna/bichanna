@@ -31,13 +31,10 @@ Stuff to learn:
 
 ```python
 favorite = {
-    "programming languages": [
-        "Rust",  # Just the best language so far
-        "Python",
-        "C",
-    ],
+    "programming languages": None,
     "sports": [
-        "Volleyball" # Setter (sometimes opposite hitter)
+        "Volleyball", # Setter (sometimes opposite hitter)
+        "Tennis"
     ],
     "players": [
         "Antoine Brizard",   # Volleyball
