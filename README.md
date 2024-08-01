@@ -28,6 +28,11 @@ Stuff to learn:
 -->
 
 
+<!--
+People I admire:
+ - 兼近大樹
+-->
+
 
 ```python
 favorite = {
