@@ -27,13 +27,6 @@ Stuff to learn:
  - Python      [Flask, FastAPI, Django]
 -->
 
-
-<!--
-People I admire:
- - 兼近大樹
--->
-
-
 ```python
 favorite = {
     "programming languages": None,
