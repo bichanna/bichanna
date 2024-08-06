@@ -41,8 +41,9 @@ favorite = {
         "Ichiro Suzuki",     # Baseball
     ],
     "books": [
-        "Moribito: Guardian of the Spirit (精霊の守り人)",
-        "The Dancing Girl (舞姫)" # The song 踊り子 sounds like this novel
+        "Moribito: Guardian of the Spirit　(精霊の守り人)",
+        "The Dancing Girl　(舞姫)",
+        "Shuna's Journey　（シュナの旅）"
         "Bomb",
         "From the New World",
     ],
