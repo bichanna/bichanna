@@ -104,13 +104,18 @@ favorite = {
     }
 -->
 
-<div align="center">
 
 <!-- <a href="https://github.com/bichanna/github-stats#gh-dark-mode-only">
 <img src="https://github.com/bichanna/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/bichanna/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a> -->
 
+<br><b>My Skills</b>
+<br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,opencv,solidjs,tailwind&perline=6)](https://skillicons.dev)
+
+<b>My Development Environment</b>
+<br>[![My Dev Environment](https://skillicons.dev/icons?i=linux,neovim,bash&perline=6)](https://skillicons.dev)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
