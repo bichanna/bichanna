@@ -50,6 +50,10 @@ favorite = {
         "Bomb",
         "From the New World",
     ],
+    "actors": [
+        "Marisa Tomei",
+        "Tom Cruise"
+    ]
     "snacks & sweets": [
         "Senbei",           # Soy sauce 
         "Black bean mochi", # More beans
