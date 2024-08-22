@@ -5,8 +5,8 @@ I'm a random student on the internet.
 <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
 <be>
 
-<b>Languages</b>:
-<br>Japanese (native), Vietnamese (native), English, German (proficiency in that order)
+<b>Languages</b> (proficiency in that order):
+<br>Japanese (native), Vietnamese (native), English, German
 
 <!--
 
