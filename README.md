@@ -5,6 +5,9 @@ I'm a random student on the internet.
 <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
 <be>
 
+<b>Languages</b>:
+<br>Japanese (native), Vietnamese (native), English, German (proficiency in that order)
+
 <!--
 
 Project ideas
@@ -110,12 +113,11 @@ favorite = {
 <img src="https://github.com/bichanna/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a> -->
 
-<br><b>My Skills</b>
+<b>My Skills:</b>
 <br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,opencv,solidjs,tailwind,gtk&perline=6)](https://skillicons.dev)
 
-<b>My Development Environment</b>
+<b>My Development Environment:</b>
 <br>[![My Dev Environment](https://skillicons.dev/icons?i=linux,neovim,bash&perline=6)](https://skillicons.dev)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
