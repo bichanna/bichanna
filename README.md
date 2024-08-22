@@ -114,7 +114,7 @@ favorite = {
 </a> -->
 
 <b>My Skills:</b>
-<br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,opencv,solidjs,tailwind,gtk&perline=6)](https://skillicons.dev)
+<br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,ros,opencv,solidjs,tailwind,gtk&perline=6)](https://skillicons.dev)
 
 <b>My Development Environment:</b>
 <br>[![My Dev Environment](https://skillicons.dev/icons?i=linux,neovim,bash&perline=6)](https://skillicons.dev)
