@@ -6,7 +6,7 @@ I'm a random student on the internet.
 <be>
 
 <b>Languages</b> (proficiency in that order):
-<br>Japanese (native), Vietnamese (native), English, German
+<br>Japanese (native), English (native), Vietnamese, German
 
 <!--
 
