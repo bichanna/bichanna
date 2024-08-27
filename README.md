@@ -5,8 +5,8 @@ I'm a random student on the internet.
 <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
 <be>
 
-<b>Languages</b> (proficiency in that order):
-<br>Japanese (native), English (native), Vietnamese, German
+<b>Languages</b>:
+<br>Japanese (native), English (native), Vietnamese (native), German
 
 <!--
 
@@ -114,10 +114,13 @@ favorite = {
 </a> -->
 
 <b>My Skills:</b>
-<br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,ros,opencv,solidjs,tailwind,gtk&perline=6)](https://skillicons.dev)
+<br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,django,flask,ros,tauri,solidjs,tailwind&perline=6)](https://skillicons.dev)
 
 <b>My Development Environment:</b>
-<br>[![My Dev Environment](https://skillicons.dev/icons?i=linux,neovim,bash&perline=6)](https://skillicons.dev)
+ - Fedora
+ - NeoVim
+ - Kitty
+ - Zsh
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
