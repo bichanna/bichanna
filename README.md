@@ -1,36 +1,30 @@
-# Hi there, I'm Nobu 👋
+<div align="center"> 
+    <h2>Hi there! I'm Nobu.</h2> 
+    <i><b>Penguins</b></i> are fluffy and adorable, <i><b>Apples</b></i> are yummy and beautiful, but <i><b>Windows</b></i> are nefarious and erratic.
+    <br>
+    <br>
+    <p>
+        My team (<a href="https://github.com/Daedalus-Robotics">Daedalus</a>) and I are participating in the AVR competition.
+        <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45">
+    </p>
+</div>
 
-I'm a random student on the internet.
-<br> I'm working on all things software for the AVR competition, rewriting the whole thing with ROS2 :) 
-<img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45"> 
-<be>
+<br>
 
-<b>Languages</b>:
-<br>Japanese (native), English (native), Vietnamese (native), German
+<details>
+<summary><samp><b>More about me</b></samp></summary>
 
-<!--
+**Languages**:
+ - Japanese (native)
+ - Vietnamese (native)
+ - English
+ - German
+ - Ancient Greek
 
-Project ideas
- - https://github.com/adam-mcdaniel/rsa
- - https://github.com/adam-mcdaniel/vpn
- - Rapid note-taking app, like how I write notes on sticky notes
- 
- - Generating Songs With Neural Networks (https://github.com/HackerPoet/Composer)
- - Fractal visualizer
- - Keyboard-controlled mouse
- - Face from sketches (https://github.com/HackerPoet/DeepDoodle)
- - Image into ASCII art (https://www.youtube.com/watch?v=gg40RWiaHRY&t=0s)
- - 2048 with Raylib
--->
+<br><b>My Skills</b>:
+<br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,django,flask,ros,tauri,solidjs,tailwind&perline=6)](https://skillicons.dev)
 
-
-<!--
-Stuff to learn:
- - Rust        [Rocket, Tauri, Iroh]
- - Haskell  
- - C++         [ROS, CMake, Meson]
- - Python      [Flask, FastAPI, Django]
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ```python
@@ -112,15 +106,4 @@ favorite = {
 <img src="https://github.com/bichanna/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/bichanna/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a> -->
-
-<b>My Skills:</b>
-<br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,django,flask,ros,tauri,solidjs,tailwind&perline=6)](https://skillicons.dev)
-
-<b>My Development Environment:</b>
- - Fedora
- - NeoVim
- - Kitty
- - Zsh
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</details>
