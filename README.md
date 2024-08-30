@@ -14,10 +14,12 @@
 <details>
 <summary><samp><b>More about me</b></samp></summary>
 
-**Languages**:
+**Languages I can speak**:
  - Japanese (native)
  - Vietnamese (native)
  - English
+
+**Languages I'm learning**:
  - Italian
  - German
 
