@@ -28,7 +28,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+<details>
+<summary><samp><b>Even more about me</b></samp></summary>
+
 ```python
 favorite = {
     "programming languages": None,
@@ -78,7 +80,6 @@ favorite = {
     "colors": ["Black", "White", "Gray"]
 }
 ```
--->
 
 
 <!--
@@ -108,4 +109,5 @@ favorite = {
 <img src="https://github.com/bichanna/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/bichanna/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a> -->
+</details>
 </details>
