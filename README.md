@@ -4,7 +4,7 @@
     <br>
     <br>
     <p>
-        My team (<a href="https://github.com/Daedalus-Robotics">Daedalus</a>) and I are participating in the AVR competition.
+        My team (<a href="https://github.com/Daedalus-Robotics">Daedalus</a>) is participating in the <a href="https://theavr.org/">AVR competition</a>.
         <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45">
     </p>
 </div>
