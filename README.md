@@ -76,6 +76,10 @@ favorite = {
         "Mika Nakashima", 
         "Adele" 
     ],
+    "comedy groups": [
+        "Unjash (アンジャッシュ)",
+        "Impulse (インパルス)"
+    ],
     "scales": ["B-flat major", "F-sharp minor"],
     "colors": ["Black", "White", "Gray"]
 }
