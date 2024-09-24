@@ -1,10 +1,9 @@
 <div align="center"> 
     <h2>Hi there! I'm Nobu.</h2> 
-    <i><b>Penguins</b></i> are fluffy and adorable, <i><b>Apples</b></i> are yummy and beautiful, but <i><b>Windows</b></i> are nefarious and erratic.
     <br>
-    <br>
+    <p>I'm Nobuharu Shimazu, a current senior at <a href="">Ideaventions Academy</a> in Reston, Virginia.</p>
     <p>
-        My team (<a href="https://github.com/Daedalus-Robotics">Daedalus</a>) is participating in the <a href="https://theavr.org/">AVR competition</a>.
+        I'm working with <a href="https://github.com/Daedalus-Robotics">Daedalus Robotics</a>, which won first place in the <a href="theavr.org">AVR</a>, an international drone competition.
         <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45">
     </p>
 </div>
