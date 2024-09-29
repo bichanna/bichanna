@@ -94,15 +94,12 @@ favorite = {
     ]
 
 "K-pop idols": {
-        "IVE": [
-            "Leeseo",
-            "Yujin",
-        ],
+        "IVE": "Leeseo",
         "Momoland": "Nancy",
         "Twice": "Sana",
         "BTS": "Jungkook",
         "ILLIT": "Iroha", 
-        "Le Sserafim": "Yunjin",
+        "Le Sserafim": "Kazuha",
         "NewJeans": "Hanni"
     }
 -->
