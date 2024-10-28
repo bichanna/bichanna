@@ -100,9 +100,9 @@ favorite = {
         "Momoland": "Nancy",
         "Twice": "Sana",
         "BTS": "Jungkook",
-        "ILLIT": "Iroha", 
+        "ILLIT": "Moka", 
         "Le Sserafim": "Kazuha",
-        "NewJeans": "Hanni"
+        "NewJeans": "Haerin"
     }
 -->
 
