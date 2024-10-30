@@ -1,7 +1,7 @@
 <div align="center"> 
     <h2>Hi there! I'm Nobu.</h2> 
     <br>
-    <p>I'm Nobuharu Shimazu, a current senior at <a href="">Ideaventions Academy</a> in Reston, Virginia.</p>
+    <p>I'm Nobuharu Shimazu, a current senior at <a href="https://www.ideaventionsacademy.org/">Ideaventions Academy</a> in Reston, Virginia.</p>
     <p>
         I'm working with <a href="https://github.com/Daedalus-Robotics">Daedalus Robotics</a>.
         <br>
