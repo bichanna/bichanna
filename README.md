@@ -64,6 +64,7 @@ favorite = {
         "Egg custard bun",  # As much custard as possible
         "Chè đậu ván",      # Less sweet to taste more of the beans
         "Baklava",          # I like pistachio ones
+        "Strudel",          # With crème fraîche on top
     ],
     "composers": [
         "Johann S. Bach",   # Soothes my mind
