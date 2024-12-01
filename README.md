@@ -21,7 +21,7 @@
  - English
 
 **Languages I'm learning**:
- - German
+ - Dutch
  - Russian
 
 <br><b>My Skills</b>:
