@@ -5,7 +5,7 @@
     <p>
         I'm working with <a href="https://github.com/Daedalus-Robotics">Daedalus Robotics</a>.
         <br>
-        Our team won first place in the <a href="theavr.org">AVR</a>, an international drone competition, in 2023 and second place in 2022.
+        Our team won first place in the <a href="theavr.org">AVR</a>, an international drone competition, in 2023 and 2024.
         <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45">
     </p>
 </div>
