@@ -22,7 +22,7 @@
 
 **Languages I'm learning**:
  - Dutch
- - Russian
+ - French
 
 <br><b>My Skills</b>:
 <br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,django,flask,ros,tauri,solidjs,tailwind&perline=6)](https://skillicons.dev)
