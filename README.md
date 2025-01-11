@@ -27,6 +27,10 @@
 **Musical instruments I play**:
  - Piano
 
+**Instruments I want to learn how to play**:
+ - Bass
+ - Drum
+
 <br><b>My Skills</b>:
 <br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,django,flask,ros,tauri,solidjs,tailwind&perline=6)](https://skillicons.dev)
 
