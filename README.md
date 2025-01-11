@@ -15,14 +15,17 @@
 <details>
 <summary><samp><b>More about me</b></samp></summary>
 
-**Languages I can speak**:
+**Languages I am proficient in**:
  - Japanese (native)
- - Vietnamese (native)
+ - Vietnamese
  - English
 
 **Languages I'm learning**:
  - Dutch
  - French
+
+**Musical instruments I play**:
+ - Piano
 
 <br><b>My Skills</b>:
 <br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,django,flask,ros,tauri,solidjs,tailwind&perline=6)](https://skillicons.dev)
@@ -49,12 +52,7 @@ favorite = {
         "Moribito: Guardian of the Spirit　(精霊の守り人)",
         "The Dancing Girl　(舞姫)",
         "Shuna's Journey　（シュナの旅）"
-        "Bomb",
         "From the New World",
-    ],
-    "actors": [
-        "Marisa Tomei",
-        "Tom Cruise"
     ],
     "snacks & sweets": [
         "Senbei",           # Soy sauce 
