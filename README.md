@@ -71,19 +71,8 @@ favorite = {
     ],
     "composers": [
         "Johann S. Bach",   # Soothes my mind
-        "Ayase",            # Awesome lyrics
+        "Ayase",            # Emotive verses
         "Joe Hisaishi",     # Sets my mood for the day
-        "Ryuichi Sakamoto", # Merry Christmas Mr. Lawrence
-    ],
-    "singers": [
-        "Lewis Capaldi",
-        "Laufey",         
-        "Mika Nakashima", 
-        "Adele" 
-    ],
-    "comedy groups": [
-        "Unjash (アンジャッシュ)",
-        "Impulse (インパルス)"
     ],
     "scales": ["B-flat major", "F-sharp minor"],
     "colors": ["Black", "White", "Gray"]
