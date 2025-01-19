@@ -2,12 +2,10 @@
     <h2>Hi there! I'm Nobu.</h2> 
     <br>
     <p>I'm Nobuharu Shimazu, a current senior at <a href="https://www.ideaventionsacademy.org/">Ideaventions Academy</a> in Reston, Virginia.</p>
-    <p>
-        I'm working with <a href="https://github.com/Daedalus-Robotics">Daedalus Robotics</a>.
-        <br>
-        Our team won first place in the <a href="theavr.org">AVR</a>, an international drone competition, in 2023 and 2024.
-        <img src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="45">
-    </p>
+    <blockquote>
+        He who is only an athlete is too much a savage. He who is a scholar only is too soft. The ideal citizen is the scholar athlete, the man of thought and the man of action.
+    </blockquote>
+    - Plato
 </div>
 
 <br>
