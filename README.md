@@ -30,7 +30,7 @@
  - Drum
 
 <br><b>My Skills</b>:
-<br>[![My Skills](https://skillicons.dev/icons?i=rust,python,nim,cpp,c,go,django,flask,ros,tauri,solidjs,tailwind&perline=6)](https://skillicons.dev)
+<br>[![My Skills](https://skillicons.dev/icons?i=rust,python,cpp,c,flutter,qt,django,ros,tauri,solidjs,angular,tailwind&perline=6)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichanna&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
