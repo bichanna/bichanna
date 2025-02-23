@@ -41,8 +41,9 @@
 favorite = {
     "programming languages": None,
     "sports": [
-        "Volleyball", # Setter (sometimes opposite hitter)
-        "Tennis"
+        "Tennis",
+        "Volleyball",
+        "Table tennis",
     ],
     "players": [
         "Antoine Brizard",   # Volleyball
@@ -60,12 +61,12 @@ favorite = {
     ],
     "snacks & sweets": [
         "Senbei",           # Soy sauce 
-        "Black bean mochi", # More beans
-        "Zenzai",           # I like it more watery
+        "Black bean mochi", # Lots of beans
+        "Zenzai",           # preferably a bit watery
         "Mille crêpe",      # More whipped cream
         "Egg custard bun",  # As much custard as possible
         "Chè đậu ván",      # Less sweet to taste more of the beans
-        "Baklava",          # I like pistachio ones
+        "Baklava",          # Pistachio ones
         "Strudel",          # With crème fraîche on top
     ],
     "composers": [
@@ -74,7 +75,7 @@ favorite = {
         "Joe Hisaishi",     # Sets my mood for the day
     ],
     "scales": ["B-flat major", "F-sharp minor"],
-    "colors": ["Black", "White", "Gray"]
+    "colors": ["Black", "White", "Pink", "Orange"]
 }
 ```
 
