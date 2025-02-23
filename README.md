@@ -49,7 +49,8 @@ favorite = {
         "Masahiro Sekita",   # Volleyball
         "Kentaro Takahashi", # Volleyball
         "Ichiro Suzuki",     # Baseball
-        "Matt Le Tissier",   # Football
+        "Matt Le Tissier",   # Football/Soccer
+        "Thomas Müller",     # Football/Soccer
     ],
     "books": [
         "Moribito: Guardian of the Spirit　(精霊の守り人)",
