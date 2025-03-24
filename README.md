@@ -20,7 +20,6 @@
 
 **Languages I'm learning**:
  - Dutch
- - French
 
 **Musical instruments I play**:
  - Piano
@@ -50,8 +49,9 @@ favorite = {
         "Masahiro Sekita",   # Volleyball
         "Kentaro Takahashi", # Volleyball
         "Ichiro Suzuki",     # Baseball
-        "Matt Le Tissier",   # Football/Soccer
-        "Thomas Müller",     # Football/Soccer
+        "Matt Le Tissier",   # Soccer
+        "Thomas Müller",     # Soccer
+        "Dennis Bergkamp",   # Soccer
     ],
     "books": [
         "Moribito: Guardian of the Spirit　(精霊の守り人)",
