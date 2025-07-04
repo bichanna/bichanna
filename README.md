@@ -1,7 +1,7 @@
 <div align="center"> 
     <h2>Hi there! I'm Nobu.</h2> 
     <br>
-    <p>I'm Nobuharu Shimazu, a current senior at <a href="https://www.ideaventionsacademy.org/">Ideaventions Academy</a> in Reston, Virginia.</p>
+    <p>I'm Nobuharu Shimazu, an incoming freshman at University of Washington.</p>
     <blockquote>
         He who is only an athlete is too much a savage. He who is a scholar only is too soft. The ideal citizen is the scholar athlete, the man of thought and the man of action.
     </blockquote>
@@ -9,7 +9,7 @@
 </div>
 
 <br>
-
+<!--
 <details>
 <summary><samp><b>More about me</b></samp></summary>
 
@@ -78,6 +78,8 @@ favorite = {
     "colors": ["Black", "White", "Pink", "Orange"]
 }
 ```
+
+-->
 
 
 <!--
