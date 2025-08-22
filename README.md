@@ -1,7 +1,7 @@
 <div align="center"> 
     <h2>Hi there! I'm Nobu.</h2> 
     <br>
-    <p>I'm Nobuharu Shimazu, an incoming freshman at University of Washington.</p>
+    <p>I'm Nobuharu Shimazu, an incoming freshman at the University of Washington. I'm interested in CS and Math.</p>
     <blockquote>
         He who is only an athlete is too much a savage. He who is a scholar only is too soft. The ideal citizen is the scholar athlete, the man of thought and the man of action.
     </blockquote>
